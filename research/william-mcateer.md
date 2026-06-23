@@ -93,6 +93,21 @@ McAteer documents the first land ownership of the Beau Vallon / Bel Ombre area. 
 ### Pirate Context Section (lines 580–602)
 McAteer describes pirates using the uninhabited Seychelles as a stopping point — water, tortoises, careening ships, burying treasure "until the return of better times." This passage provides the novel with authentic historical texture for how La Buse would have used the islands.
 
+### Anse Forbans (lines 3427–3428)
+McAteer records that Hangard moved from Sainte Anne to **Anse Forbans** before acquiring the Bel Ombre land. "Forbans" is French for pirates. Anse Forbans — Pirates' Cove — is a real place name on Mahé, situated on the southeast coast. Its name predates formal settlement and implies pirate use. This is confirmed real historical geography documented in McAteer's book.
+
+**Significance for the novel:** Anse Forbans is not near Bel Ombre geographically, but the name provides authentic local colour and confirms that pirate presence in the Seychelles was real enough to name places after. The progression Hangard follows — Sainte Anne → Anse Forbans → Beau Vallon/Bel Ombre — documents the northwest coast as a deliberate destination for the island's most powerful early settler.
+
+### Cap Ternay Reef (line 3453)
+McAteer records that Gillot's pirogue "was lost on the reef off Cap Ternay." Cap Ternay is the granite headland at the northern end of Beau Vallon bay — immediately adjacent to the Bel Ombre area. The reef off Cap Ternay is a real coastal feature. A reef in that location would create tidal channel effects in the granite formations below the headland.
+
+**Significance for the novel:** This is the most geographically specific coastal reference near the novel's entrance location. The reef off Cap Ternay — mentioned in passing in McAteer's account of a colonial dispute — is precisely the kind of detail that, cross-referenced with other books, could point to a tidal channel entrance. Adam noticing this footnote-level geographical reference is credible and specific.
+
+### Period Covered and Scan Status
+- **Period:** 1742 (Picault's first expedition) through approximately the mid-1780s based on content
+- **Scan completeness:** INCOMPLETE — the scan cuts off mid-sentence at approximately page 101. The book continues beyond this point. Full scan needed.
+- **OCR quality:** Variable — some pages clear, some significantly garbled. Re-scan degraded pages before using as direct quotation source.
+
 ---
 
 ## Research Areas for McAteer

@@ -26,7 +26,7 @@ The pattern is only visible when all five books are read together and specific t
 | Book | Hidden Element | What It Contributes |
 |------|---------------|-------------------|
 | **Rivals in Eden** | Two real elements confirmed by scan: (1) La Buse reference with cipher mention (lines 608–621) — McAteer is sceptical but documents it accurately. (2) First land ownership record of Bel Ombre — settler Hangard acquires "an immense piece of land along North West Bay (today's Beau Vallon and Bel Ombre)" in the 1770s. The fictional anomaly: McAteer's description of the Bel Ombre coastline in the early colonial surveys uses geographical precision that, cross-referenced with Book 2, identifies a specific tidal feature. | La Buse connection + first Bel Ombre land record — the starting point |
-| **Hard Times in Paradise** | A footnote about a colonial-era land dispute references a "tidal channel in the granite formation" that "no longer appears on current maps." A full citation of a French naval surveyor's report from 1798. | Confirmation of the geological feature (the entrance) |
+| **Hard Times in Paradise** | A footnote references a colonial-era surveyor's report describing a tidal channel near Cap Ternay reef — the same reef mentioned in *Rivals in Eden* when Gillot lost his pirogue there. McAteer cites it as historical curiosity. Read together with *Rivals in Eden*, it locates the entrance. | Confirmation of the specific tidal feature (the entrance channel) |
 | **To Be a Nation** | A chapter on post-independence land ownership patterns includes a list of property transactions at Bel Ombre. One address appears six times across 200 years — purchased, sold, purchased again, always by entities that subsequently dissolve. | The specific land parcel; evidence others have sought this before |
 | **Echoes of Eden** | A passage comparing Seychellois oral history to written colonial record uses a specific tide table as an example of "the precision that nature provides when documents fail." The tide table, examined closely, shows a pattern. | The tidal window — the entrance is only accessible at specific tidal states, roughly every 48 hours |
 | **Another Story** | The final book, the most personal, contains a chapter on Brendon Grimshaw and Moyenne Island. McAteer quotes Grimshaw directly: *"The island remembers everything. You only have to ask it in the right order."* This phrase, combined with the floor plan in McAteer's private study, provides the approach sequence. | The order of approach and the directional orientation of the entrance |
@@ -37,6 +37,21 @@ The pattern is only visible when all five books are read together and specific t
 - SYBIL cannot determine what the pattern *means* — it flags it and stops
 - Adam, with Juliette's local knowledge and Edmond's access to land records, interprets the pattern
 - The final confirmation comes from Moyenne Island — Grimshaw's tortoise paths confirm the approach direction
+
+---
+
+## REAL GEOGRAPHY ANCHORING THE CLUE CHAIN
+
+*Confirmed from McAteer scan — these are real documented places that anchor the fictional clue chain in verifiable fact:*
+
+| Location | What McAteer Documents | Novel Use |
+|----------|----------------------|-----------|
+| **North West Bay** | Colonial name for Beau Vallon / Bel Ombre area | The treasure area's historical name — Adam finds this in *Rivals in Eden* |
+| **Cap Ternay reef** | Gillot's pirogue "lost on the reef off Cap Ternay" — documented in colonial correspondence | The reef creates the tidal channel that forms the entrance. Cross-referenced with *Hard Times in Paradise* survey footnote. |
+| **Anse Forbans** | "Pirates' Cove" — Hangard's base before he moved to Bel Ombre. Name predates formal settlement. | Confirms pirate use of the northwest coast. Adjacent to the novel's entrance area. |
+| **Hangard's land** | "An immense piece of land along North West Bay (today's Beau Vallon and Bel Ombre)" — first colonial land grant for this area | The beginning of the 200-year Bel Ombre land ownership pattern Adam traces across books |
+
+**The key fictional leap:** McAteer documents these features separately across his books. No one has ever read them together as a connected geographical sequence. Adam does — with SYBIL's pattern-matching flagging the statistical improbability of three books referencing the same coastal micro-geography in passing.
 
 ---
 

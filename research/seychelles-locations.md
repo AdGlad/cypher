@@ -49,6 +49,12 @@ The main island. Home to approximately 90% of the population (roughly 80,000 peo
 - [ ] Geological survey data for the Bel Ombre granite formation
 - [ ] Historical records of excavations at Bel Ombre — dates, methods, findings
 
+**Confirmed from McAteer scan (Rivals in Eden):**
+- The Beau Vallon / Bel Ombre area was called **North West Bay** in the colonial period — McAteer uses the modern names in parentheses
+- The area's first documented land ownership: settler **Hangard** acquired "an immense piece of land along North West Bay" in the 1770s–1780s
+- **Cap Ternay** — the granite headland at the northern end of Beau Vallon — has a reef documented in colonial records. Gillot's pirogue was "lost on the reef off Cap Ternay." This reef would influence tidal patterns in the channel below the headland.
+- **Anse Forbans** (Pirates' Cove) is a real place name on Mahé, used by the first settlers. Hangard lived there before moving to Bel Ombre. The name predates formal settlement and confirms pirate use of the island's coastline.
+
 ---
 
 ## Cerf Island (Île Cerf)
