@@ -116,6 +116,20 @@ La Buse himself does not appear in the novel. He exists as:
 
 ---
 
+## McAteer's Account of La Buse (Confirmed)
+
+From the scan of *Rivals in Eden* (lines 608–621), McAteer covers La Buse directly:
+
+> *"Of those who terrorised the Indian [Ocean] in the early 18th century one in particular, Olivier le Vasseur, known as La Buse, has had his name directly linked with the Seychelles. The fabulous treasure he supposedly [buried] prompted several attempts to locate it, first in the 1920s and again in the 1950s. Unlikely as the story is, Le Vasseur is [said] to have offered a clue to the whereabouts of the treasure as he was about to be hanged on Bourbon island. He threw to the crowd a piece of paper, shouting 'Find my treasure who can' or words to that effect. The marks on the paper have been deciphered, but no one, so far as is known, has yet succeeded in finding the hidden hoard."*
+
+**Note:** Square brackets indicate words inferred from garbled OCR text. The passage is clear in substance.
+
+McAteer also notes treasure islands reputed in Seychelles lore: **Aride, Frégate, Praslin, Astove, and Mahé**.
+
+This passage is the anchor for the novel's premise — McAteer, the respected historian, documented La Buse sceptically and accurately. The irony is that his other books inadvertently contained the real clues he dismissed in print.
+
+---
+
 ## Sources to Acquire
 
 - Raymond Neltje: *La Buse* (primary French-language biography)

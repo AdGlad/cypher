@@ -14,15 +14,15 @@ William McAteer was a real historian who devoted much of his career to documenti
 
 The following books are real and should be accurately cited in the novel:
 
-| Book | Content |
-|------|---------|
-| **Rivals in Eden** | The early history of the Seychelles — the competing French and British colonial claims, the island's settlement |
-| **Hard Times in Paradise** | The Seychelles under British rule; economic and social history of the colonial period |
-| **To Be a Nation** | The path to Seychellois independence; political history |
-| **Echoes of Eden** | Further Seychelles history — the post-independence period and the 1977 coup |
-| **Another Story** | Later Seychelles history; may include accounts of the democratic transition |
+| Book | Content | Status |
+|------|---------|--------|
+| **Rivals in Eden** | French and British colonial rivalry for the Seychelles; covers 1742 onwards with pre-1742 pirate context | **SCANNED — see findings below** |
+| **Hard Times in Paradise** | The Seychelles under British rule; economic and social history of the colonial period | Not yet read |
+| **To Be a Nation** | The path to Seychellois independence; political history | Not yet read |
+| **Echoes of Eden** | Further Seychelles history — the post-independence period and the 1977 coup | Not yet read |
+| **Another Story** | Later Seychelles history; may include accounts of the democratic transition | Not yet read |
 
-> **[RESEARCH TASK: Verify exact titles, publication dates, and publishers. Verify content of each book — do not assume the above summaries are accurate. Read the books if at all possible.]**
+> **Revised edition published 2002 (Mahé, Seychelles). Original first published Doha, Qatar, 1991.**
 
 ---
 
@@ -61,15 +61,52 @@ The following books are real and should be accurately cited in the novel:
 
 ---
 
+## Rivals in Eden — Confirmed Findings (Scan Analysis)
+
+### Period Covered
+Formally begins **1742** (Picault's first expedition to Mahé) but includes a contextual section on pre-settlement pirate activity — covering La Buse directly.
+
+### La Buse Reference (lines 608–621)
+McAteer covers La Buse in a dedicated passage within his introductory section on pirate presence before formal colonisation. Key content:
+- Names him: "Olivier le Vasseur, known as La Buse"
+- States his treasure has "had his name directly linked with the Seychelles"
+- References the cipher: "He threw to the crowd a piece of paper, shouting 'Find my treasure who can'"
+- Notes the cipher "has been deciphered, but no one, so far as is known, has yet succeeded in finding the hidden hoard"
+- References treasure-hunting attempts in the **1920s and 1950s**
+- McAteer is sceptical ("unlikely as the story is") but acknowledges "sufficient evidence has been unearthed at different times to indicate a pirate presence"
+- Lists islands reputed to contain pirate treasure: **Aride, Frégate, Praslin, Astove, and Mahé**
+
+**Significance for the novel:** McAteer's own book contains the La Buse reference. Adam reading *Rivals in Eden* and encountering McAteer's sceptical-but-documented treatment of the cipher is the perfect starting point. McAteer the historian dismissed the treasure legend in print — while privately suspecting the books contained something real.
+
+### Bel Ombre Reference (lines 3428–3431)
+McAteer documents the first land ownership of the Beau Vallon / Bel Ombre area. A settler named **Hangard** (a former soldier turned colonist) acquired "an immense piece of land along North West Bay (today's Beau Vallon and Bel Ombre)" in the 1770s–1780s colonial period. Hangard is a significant figure in McAteer's account — controversial, powerful, the largest landowner of the early colony.
+
+**Significance for the novel:** The land ownership record for Bel Ombre begins with McAteer's first colonial period. This anchors the clue chain's land-ownership-pattern element in real documented history from the very first settlement.
+
+### McAteer's Writing Style (from scan)
+- Precise, measured, academic but readable
+- Uses primary sources extensively — ships' logs, letters, official reports, colonial correspondence
+- Integrates vivid scene-setting with documentary evidence
+- His scepticism is never dismissive — he weighs evidence carefully
+- Footnotes are active and substantive, not merely citation lists
+
+### Pirate Context Section (lines 580–602)
+McAteer describes pirates using the uninhabited Seychelles as a stopping point — water, tortoises, careening ships, burying treasure "until the return of better times." This passage provides the novel with authentic historical texture for how La Buse would have used the islands.
+
+---
+
 ## Research Areas for McAteer
 
-- [ ] Read all five books — complete reading, not skimming
-- [ ] Document the actual historical content of each book accurately
-- [ ] Identify real locations, historical figures, and events mentioned
-- [ ] Note McAteer's actual writing style for reference when depicting his annotated notes
+- [x] Confirm period covered by *Rivals in Eden* — **1742 onwards, with pre-1742 pirate context**
+- [x] Confirm La Buse is referenced — **Yes, directly, lines 608–621**
+- [x] Confirm Bel Ombre is referenced — **Yes, lines 3428–3431, land ownership records**
+- [ ] Read full scan of *Rivals in Eden* — scan acquired; full close reading needed
+- [ ] Scan and read remaining four books
+- [ ] Document McAteer's actual writing style more thoroughly for depicting his annotations
 - [ ] Research any biographical information about McAteer available
 - [ ] Research his connection to the Seychelles scholarly community
 - [ ] Verify: was McAteer married? Did he have a base in the Seychelles?
+- [ ] Note: OCR scan has some garbled text — re-scan corrupted pages before using as direct reference
 
 ---
 
