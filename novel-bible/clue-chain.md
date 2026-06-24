@@ -165,11 +165,22 @@ Aimee recognises it because she *played* it at school. Her body knows the sequen
 | Misdirection | The Truth |
 |-------------|-----------|
 | Everyone assumes the cipher is the key to finding the entrance | The books are the key; the cipher is internal navigation |
-| Viktor's 400m radar survey seems to give him an unassailable advantage | The entrance isn't findable by radar — it's a tidal water channel, not a structural anomaly |
+| Viktor's radar survey seems to give him an unassailable advantage | The entrance isn't findable by radar — it's a tidal water channel, not a structural anomaly |
+| The Bel Ombre beach rock carvings look like the real clue | They are navigational markers pointing toward the water — they sent every previous searcher digging into the hillside instead |
 | Dax appears to be a rival independent researcher | He is Viktor's operative; his "research" is surveillance |
+| Viktor's AI produces a confident treasure-location probability map | It has conflated two separate legends: La Buse's complex and Hodoul the privateer's buried prize money (a documented historical confusion — both are in McAteer) |
 | The treasure is the goal of the story | The scientific archive is the true discovery |
 | The Coco de Mer is a symbol | The Coco de Mer's bilateral symmetry physically mirrors the complex's two-chamber structure |
 | Père Henri's vagueness seems like reluctance to help | He doesn't fully know — he has half the picture; his half is essential |
+
+### The Hodoul / La Buse Confusion — A Scene
+SYBIL produces a merged treasure-location probability map combining references from all five McAteer books. It is confident. It is wrong. Adam shows it to Juliette.
+
+Juliette looks at it. *"She's conflating La Buse and Hodoul."*
+Adam: *"They're the same person?"*
+Juliette: *"No. That's the problem."*
+
+Hodoul was a privateer active around Sainte Anne in 1800 — seventy years after La Buse. McAteer documents that Hodoul's actions "gave rise to several of the reports of buried treasure in Seychelles." Viktor's AI ingests both legends from the books and cannot separate them without cultural context. The AI weights both equally. Juliette weights them correctly in seconds.
 
 ---
 

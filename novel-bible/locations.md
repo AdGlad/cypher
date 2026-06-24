@@ -17,6 +17,13 @@ The capital of the Seychelles — the smallest capital city in the world by some
 - The national archives are here — a critical early research stop.
 - Viktor's regional office for OceanVector operates from a discreet Victoria address.
 
+**The Pierre de Possession — National History Museum, Victoria**
+Morphey's carved stone from 1756 — France's first formal claim on the Seychelles. McAteer records it as "eroded and vandalised, possibly during the Revolution." Now on display in the National History Museum.
+
+Adam visits it on Day 1. It is his first encounter with a physically inscribed piece of Seychelles history — the most official claim France ever made, now damaged, barely legible. The vandalism "possibly during the Revolution" is a reminder: history is not stable. It is contested, damaged, and rewritten.
+
+*Thematic note:* The pierre de possession is the opposite of the archive — public, displayed, eroded, contested. The archive is private, hidden, perfectly preserved, and waiting. Both are attempts to make a permanent claim. One failed. One survived.
+
 **Sensory anchors:** The smell of spice from the market. The sound of Creole being spoken between people who switch to English when Adam approaches. The heat hitting differently in the city than on the water.
 
 ---
@@ -29,6 +36,11 @@ Bel Ombre is the traditional site of La Buse treasure mythology. Ornamental gard
 - The novel should subvert expectations: the treasure is *near* Bel Ombre but not exactly where tradition says.
 - The underground complex entrance is hidden in this area — discovered not by digging but by *reading*.
 - Edmond Gladstone's final research was centred here.
+
+**The rock carvings:**
+McAteer's Footnote 27 records "mysterious carvings on rocks at Bel Ombre beach" — real, documented, linked to the La Buse cipher since the 1920s. Every previous treasure hunter focused on these carvings and dug into the hillside.
+
+In the novel: the carvings are real and Adam finds them. Viktor's team has already catalogued and analysed them. SYBIL's analysis: the symbols are navigational markers oriented toward the water, not inland. Every previous searcher was looking in the wrong direction. The entrance is not above the carvings — it is below them, at the waterline.
 
 **Sensory anchors:** The lush, dense vegetation that closes back over everything. The sound of water — a hidden stream. The feeling of the ground being *hollow* in a way you cannot quite explain.
 

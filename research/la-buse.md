@@ -77,9 +77,21 @@ Key decisions:
 The most widely held: La Buse's treasure is buried on Mahé, Seychelles — specifically in the Bel Ombre area. Numerous excavations from the 19th century onward. No confirmed treasure found.
 
 ### Notable Searches
-- **19th century:** Several French expeditions at Bel Ombre. Excavations left the hillside scarred.
-- **20th century:** Various independent researchers; some claimed partial cipher decipherment.
-- **Reginald Cruise-Wilkins:** Perhaps the most notable modern searcher. Spent decades and substantial money excavating Bel Ombre. Connected his cipher interpretation to Hercules myths. Died without finding treasure.
+- **1920s:** Charles de la Roncière (keeper of printed papers, Bibliothèque Nationale, Paris) deciphered a paper believed to contain Le Vasseur's clue, linking it to rock carvings at Bel Ombre beach. Early diggings found two coffins with human remains and a body buried in the sand — interpreted as pirates killing helpers. No gold.
+- **Late 1940s onward:** Reginald Cruise-Wilkins formed a syndicate, raised capital, and excavated Bel Ombre for approximately 20 years. Died still searching.
+- **1988:** Cruise-Wilkins' sons resumed with $100,000 from an American investor.
+*(All of the above confirmed from McAteer's Footnote 27, Rivals in Eden)*
+
+### The Hodoul Confusion — A Competing Seychelles Treasure Legend
+McAteer documents a second distinct Seychelles treasure legend that is routinely conflated with La Buse:
+
+**Jean-François Hodoul**, a privateer, captured the English privateer *Henriette* near Sainte Anne island on 28 May 1800. McAteer states this action "gave rise to several of the reports of buried treasure in Seychelles." Hodoul later settled in Seychelles and became one of its wealthiest inhabitants.
+
+**The key distinction:**
+- La Buse: 1730, pirate, hidden underground complex, Bel Ombre area
+- Hodoul: 1800, privateer, prize money / buried booty, Sainte Anne area
+
+Viktor's AI conflates both legends when processing McAteer's books — both involve "buried treasure in Seychelles" and both are documented by McAteer. Without cultural contextualisation, the probability map the AI produces is unreliable. Juliette separates them immediately. This is one of the novel's clearest demonstrations of what human knowledge provides that data alone cannot.
 
 ### Praslin Theory
 Alternative: treasure hidden on Praslin, possibly connected to the Vallée de Mai.

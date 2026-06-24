@@ -61,6 +61,12 @@ The novel argues that all three are necessary — but that the hierarchy runs up
 
 **The Brendon Grimshaw question:** A man who could have sold his island for a fortune chose instead to plant trees and protect what was there. He refused every offer. He left the island to the nation.
 
+**The Quinssy precedent (from McAteer):** Jean-Baptiste Quéau de Quinssy surrendered the Seychelles to Britain — formally, repeatedly, on paper — while preserving French colonial culture intact. Capitulation as a form of protection. He gave away the surface to save the substance. His portrait hangs in the Seychelles museum, "the mouth twisted in a smirk."
+
+Juliette can reference Quinssy directly when defending McAteer's silence: *"Quinssy surrendered the islands to save them. William kept quiet about the archive for the same reason."*
+
+**The Coco de Mer secrecy precedent (from McAteer):** When Poivre discovered the Coco de Mer on Praslin in 1769, he immediately declared the location should "remain secret" to protect its rarity. The Seychelles has a documented history of concealing its natural treasures. The archive is not an anomaly — it is consistent with how the islands have always operated.
+
 This is the moral template the novel holds up against Viktor's commercial instinct.
 
 **Dramatised through:**
