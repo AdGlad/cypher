@@ -49,11 +49,16 @@ The main island. Home to approximately 90% of the population (roughly 80,000 peo
 - [ ] Geological survey data for the Bel Ombre granite formation
 - [ ] Historical records of excavations at Bel Ombre — dates, methods, findings
 
-**Confirmed from McAteer scan (Rivals in Eden):**
-- The Beau Vallon / Bel Ombre area was called **North West Bay** in the colonial period — McAteer uses the modern names in parentheses
+**Confirmed from McAteer scans (Rivals in Eden — repaired version, 1742–1827):**
+
+- The Beau Vallon / Bel Ombre area was called **North West Bay** in the colonial period
 - The area's first documented land ownership: settler **Hangard** acquired "an immense piece of land along North West Bay" in the 1770s–1780s
-- **Cap Ternay** — the granite headland at the northern end of Beau Vallon — has a reef documented in colonial records. Gillot's pirogue was "lost on the reef off Cap Ternay." This reef would influence tidal patterns in the channel below the headland.
-- **Anse Forbans** (Pirates' Cove) is a real place name on Mahé, used by the first settlers. Hangard lived there before moving to Bel Ombre. The name predates formal settlement and confirms pirate use of the island's coastline.
+- **Cap Ternay** (also named Pointe Matoopa) — the **most westerly point of Mahé** — has an associated **Baie Ternay** (a bay at the top of Beau Vallon) and a **Ternay Strait** between Mahé and Conception Island. The tidal dynamics of this strait affect the coastline below the headland.
+- A reef off Cap Ternay is documented: Gillot's pirogue "was lost on the reef off Cap Ternay" — a real colonial-era coastal hazard
+- **Anse Forbans** (Pirates' Cove) — Hangard's base before he moved to Bel Ombre; name predates formal settlement
+- **North West Bay as a hidden anchorage**: Ships used it during the south-east monsoon because it was "more sheltered" AND because it was **"out of sight"** from Victoria — the mountain blocked the sightline. Ships accessed Victoria from here via a mountain pass. This coastal isolation is historically documented.
+- **Bel Ombre beach**: McAteer's footnote 27 references "mysterious carvings on rocks at Bel Ombre beach" — already associated with treasure-hunting in the 1920s. Real documented coastal feature.
+- **Beau Vallon today**: McAteer briefly describes it as a busy tourist beach — "swarms of anonymous tourists who throng the streets of Victoria and the beach at Beau Vallon."
 
 ---
 

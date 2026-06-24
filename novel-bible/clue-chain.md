@@ -53,6 +53,11 @@ The pattern is only visible when all five books are read together and specific t
 
 **The key fictional leap:** McAteer documents these features separately across his books. No one has ever read them together as a connected geographical sequence. Adam does — with SYBIL's pattern-matching flagging the statistical improbability of three books referencing the same coastal micro-geography in passing.
 
+**Additional real details now confirmed from full repaired scan:**
+- McAteer's own **Footnote 27** in *Rivals in Eden* documents Bel Ombre excavations in detail — the 1920s de la Roncière decipherment, the rock carvings at Bel Ombre beach, the human remains found, Cruise-Wilkins. Adam reads this footnote and realises that everyone who searched for the treasure was looking for a buried cache — not an underground complex accessible via a tidal channel.
+- North West Bay was historically **"out of sight"** from Victoria — ships anchored there were screened by the mountain. This explains why the entrance was never stumbled upon by accident.
+- **Ternay Strait** (between Mahé and Conception Island) creates tidal flow that influences the channel below Cap Ternay. The tidal window for the entrance is a direct result of this geography.
+
 ---
 
 ## LAYER 2 — THE LA BUSE CRYPTOGRAM

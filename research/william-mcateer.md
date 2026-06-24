@@ -103,10 +103,43 @@ McAteer records that Gillot's pirogue "was lost on the reef off Cap Ternay." Cap
 
 **Significance for the novel:** This is the most geographically specific coastal reference near the novel's entrance location. The reef off Cap Ternay — mentioned in passing in McAteer's account of a colonial dispute — is precisely the kind of detail that, cross-referenced with other books, could point to a tidal channel entrance. Adam noticing this footnote-level geographical reference is credible and specific.
 
-### Period Covered and Scan Status
-- **Period:** 1742 (Picault's first expedition) through approximately the mid-1780s based on content
-- **Scan completeness:** INCOMPLETE — the scan cuts off mid-sentence at approximately page 101. The book continues beyond this point. Full scan needed.
-- **OCR quality:** Variable — some pages clear, some significantly garbled. Re-scan degraded pages before using as direct quotation source.
+### Repaired Scan — Additional Findings (rivals_in_eden_repaired.txt)
+
+A repaired, more complete OCR scan was added to the project (14,736 lines vs 3,783 in the original). The back cover confirms the full title and period:
+
+> **"RIVALS IN EDEN — William McAteer — THE HISTORY OF SEYCHELLES 1742–1827"**
+
+**New key findings from the repaired scan:**
+
+#### Footnote 27 — Bel Ombre Excavations (lines 13506–13517)
+McAteer's own detailed footnote on La Buse and Bel Ombre:
+- The cipher was deciphered in the **1920s by Charles de la Roncière**, keeper of printed papers at the Bibliothèque Nationale, Paris
+- Subsequently linked to **"mysterious carvings on rocks at Bel Ombre beach"** on Mahé
+- Early diggings found no gold — only **two coffins containing human remains and a body buried in the sand** (interpreted as pirates killing helpers to protect treasure locations)
+- **Reginald Cruise-Wilkins** began excavations in the late 1940s; died still searching
+- Cruise-Wilkins' sons resumed in **1988** with $100,000 from an American investor
+
+**Novel significance:** This footnote is the most detailed reference to Bel Ombre in McAteer's book. Adam reading it and then cross-referencing it with the Hangard land ownership passage in the main text is the moment the clue chain becomes visible.
+
+#### North West Bay as a Hidden Anchorage (lines 4932–4953)
+McAteer records the corvette Minerve anchoring at **North West Bay in July 1793** because "this being the more sheltered anchorage during the south-east monsoon." Critically: the ship was **"out of sight in North West Bay"** — the mountain between the northwest coast and Victoria made the anchorage invisible from the main settlement. A procession had to carry the Tricolour flag "over the mountain pass and down into the town."
+
+**Novel significance:** North West Bay (Beau Vallon/Bel Ombre) was historically used by ships that didn't want to be seen from Victoria. The mountain blocked the sightline. This is why the entrance to the complex was never accidentally discovered — ships calling at the northwest coast were operating in an effectively screened location.
+
+#### Cap Ternay Geography — Full Description (lines 13216–13218)
+From McAteer's biographical notes on Ternay:
+> *"The most westerly point of Mahé island was called Cap Ternay (renamed Pointe Matoopa). There is also Baie Ternay, and between Mahé and Conception island, Ternay Strait."*
+
+So the geographic cluster at the novel's entrance location comprises:
+- **Cap Ternay / Pointe Matoopa** — the westernmost point of Mahé
+- **Baie Ternay** — a bay at the northern end of Beau Vallon
+- **Ternay Strait** — the channel between Mahé and Conception Island; tidal dynamics here would influence the channel entrance
+
+#### Period Covered and Scan Status
+- **Full period confirmed:** 1742–1827
+- **Original scan:** Incomplete — cut off at approximately page 101 (c.1780s content)
+- **Repaired scan:** Much more complete — covers the full period; includes back matter, bibliography, and footnotes
+- **OCR quality:** Variable — some pages marked "confidence: 100%", others low confidence or "[No text recognised]"
 
 ---
 
