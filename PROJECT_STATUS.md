@@ -102,27 +102,21 @@
 
 ---
 
-## Questions for the Author
+## Author Decisions — RESOLVED
 
-1. **Adam's character:** Is there a specific backstory or personal detail about Adam that should inform his character? How did he first meet Brigitte? When did the family live in the Seychelles?
-
-2. **Aimee's age:** Is early 20s correct? Or younger — late teens? This affects the university deferral ending.
-
-3. **The archive's scientist:** Is "Dutch, sailing under Portuguese commission" right for the Van Houten character? Any changes?
-
-4. **Brigitte's role:** Does Brigitte join them in the Seychelles at any point? Or does she remain in the UK throughout?
-
-5. **SYBIL:** Does the AI tool have a name you prefer? Or any specific capabilities or limitations you want to establish?
-
-6. **Viktor's AI:** Does Viktor's system have a name? Should it be contrasted more specifically with SYBIL?
-
-7. **The prologue:** Do you want a historical opening scene (1721 or 1730) or do you prefer to begin in the present?
-
-8. **Tone of violence:** What is the novel's violence level? Does anyone die? Is Dax physically threatening or only operationally threatening?
-
-9. **The La Buse cryptogram:** Do you want the actual real cipher incorporated into the text? Or a fictional version consistent with it?
-
-10. **Series commitment:** Are you committed to a trilogy? This affects how much of the "who built the complex" mystery to hold back.
+1. **Prologue:** YES — historical scene, La Buse at the entrance (1724–1730). Reader doesn't understand it until the end.
+2. **Violence:** No deaths. Family thriller. Dax is operational only — no physical threat.
+3. **La Buse cipher:** Use the real La Roncière 1934 cryptogram. In-world genuine; scholarly uncertainty is ZARYA's blind spot.
+4. **Viktor's AI:** Named ZARYA (Russian for "dawn" — ISS module resonance). Replaces AURORA throughout.
+5. **Archive creator:** French Huguenot scholar who fled France after the Revocation of the Edict of Nantes (October 1685). Name TBD.
+6. **Brigitte:** Based in Australia. Present throughout the novel in the Seychelles. Half-Seychellois. Perfect French. Full character, not phone voice.
+7. **Family backstory:** When Aimee was 6 and Chloe was 7.5, the family spent a year in the Seychelles — GFC stripped Adam's funding; Juliette diagnosed with cancer. Girls attended local school. This is where the Creole rhyme was learned.
+8. **Chloe:** New character — Aimee's older sister, 18 months older, present throughout. Also has Creole, also knows the rhyme — but cannot perform the sequence. She is the novel's clearest demonstration of knowing vs. having.
+9. **Aimee:** Age 24 in 2026. Based in Australia. University of Western Australia (deferred).
+10. **Adam:** University of Western Australia. British-Australian.
+11. **SYBIL:** Kind, empathetic AI. Errs toward compassion. Notices the human alongside the analytical. Built-in uncertainty-flagging. Contrast with ZARYA (confident, cold, no shadows).
+12. **Series:** Trilogy confirmed. "Who built the complex" held for Book 2. Dax open ending deliberate.
+13. **Institute name:** Deferred until Huguenot scholar is named.
 
 ---
 

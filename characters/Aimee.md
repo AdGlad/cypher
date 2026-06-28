@@ -5,11 +5,13 @@
 ## Basic Profile
 
 **Full name:** Aimee Brigitte Gladstone
-**Age:** 22
-**Nationality:** British — but culturally hybrid; she holds two homes inside her and the Seychelles is the one that fits
-**Occupation:** Student (first year, deferred midway through — ostensibly to support Adam on the trip; in reality she was already looking for a reason)
-**Education:** English literature, University of Edinburgh — one semester completed before the trip. She has not decided whether to return.
-**Languages:** English (native). Seychellois Creole (genuinely fluent — not tourist-level; she thinks in it sometimes). French (school-level, good enough for menus and museums). Her Creole is better than her French, which baffles her father.
+**Age:** 24
+**Nationality:** Australian (born Australia; Seychellois heritage through Brigitte)
+**Occupation:** Student (first year of environmental humanities, University of Western Australia — deferred after one semester. Ostensibly she joined the trip to support Adam; in reality she was already looking for a reason to leave.)
+**Education:** Environmental humanities, UWA — one semester. She has not decided whether to return.
+**Languages:** English (native). Seychellois Creole (genuinely fluent — not tourist-level; she thinks in it sometimes, dreams in it occasionally). French (functional — better spoken than written). Her Creole is better than her French, which baffles her father and does not surprise her mother.
+
+**Sister:** Chloe Gladstone, 18 months older, also present throughout the novel. Wherever Aimee is, Chloe is. They are close in the way siblings are close who have moved through the same experiences in genuinely different ways.
 **Appearance:** She has Brigitte's colouring — darker than Adam, lighter than the locals. Medium height; moves easily, without the desk-posture Adam has developed. Hair that's perpetually escaping whatever she's done with it. Her face is more open than Adam's — things land on it visibly. She dresses practically, slightly chaotically, and it suits her.
 **Mannerisms:** Goes quiet when she's absorbing something rather than processing it out loud. Touches things — walls, stones, bark, the surface of still water — as a way of paying attention. Occasionally switches into Creole mid-sentence without noticing, then notices and doesn't apologise. Draws in the margins of everything.
 **Health:** Good. Athletic without trying — she has spent her life moving through landscape rather than sitting with it.
@@ -25,7 +27,7 @@
 
 **Biggest fear:** That her way of knowing — embodied, associative, cultural — is not the kind of knowing that matters. That Adam is right, without meaning to be. That the tools her father trusts are the only ones that count, and she doesn't have those tools.
 
-**Biggest regret:** Choosing Edinburgh over returning to the Seychelles when she was 18. She chose it for the wrong reasons — she thought it was what she was supposed to want. She wasn't ready to admit how much she missed the islands.
+**Biggest regret:** Choosing university over returning to the Seychelles when she was eighteen. She chose it for the wrong reasons — she thought it was what she was supposed to want. She wasn't ready to admit how much she missed the islands. Chloe went straight into work and didn't seem to miss it the same way, which made Aimee feel her own missing was disproportionate. It wasn't.
 
 **Greatest achievement:** She doesn't think in those terms yet. If pressed: keeping the Creole. Most people would have let it fade. She didn't, though she can't explain why — it felt like losing a limb would feel.
 
@@ -49,7 +51,9 @@
 
 **Adam:** She loves him completely and has spent years quietly frustrated by how he sees her. He is not dismissive in a cruel way — he is dismissive in the way brilliant people are when they have a system that works and cannot imagine what lies outside it. She sees this clearly. She also sees that he sees her in the moments that matter — just not quickly enough. Her arc is choosing, at the second door, to be trusted rather than proved right.
 
-**Brigitte:** Her closest relationship in the family — they communicate in ways Adam doesn't quite follow. Brigitte understands what Aimee knows because she has her own version of it. The suggestion that Aimee accompany Adam was Brigitte's most consequential act in the novel.
+**Brigitte:** Her closest relationship in the family — they communicate in ways Adam doesn't quite follow. Brigitte understands what Aimee knows because she has her own version of it. McAteer's private instruction to Brigitte was explicit: take Aimee. She is the reason the rest works. Brigitte has been carrying this.
+
+**Chloe:** Her older sister, present throughout. They are not the same person, which is the point. Chloe has the Creole, the memories, the year — and not quite what Aimee has. Their relationship is close, occasionally competitive in the older-sibling way, always honest. Chloe will be the first person to say, after the second door opens: *"You knew, didn't you. Since Beau Vallon."*
 
 **Juliette:** Immediate recognition. Juliette sees what Aimee is before Adam does. Their kinship is cultural and practical — both women carry things inside them that cannot be written down. Their relationship opens faster than any other in the novel.
 

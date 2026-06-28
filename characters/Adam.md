@@ -6,8 +6,8 @@
 
 **Full name:** Adam James Gladstone
 **Age:** 43
-**Nationality:** British
-**Occupation:** Professor of Applied Mathematics and Computational History, University of Edinburgh. Creator of SYBIL.
+**Nationality:** British-Australian (British born; Australian permanent resident through Brigitte)
+**Occupation:** Professor of Applied Mathematics and Computational History, University of Western Australia. Creator of SYBIL.
 **Education:** BSc Mathematics, Imperial College London. PhD in Computational Pattern Recognition, Cambridge. He was the first in his family to go to university.
 **Languages:** English (native). Functional French (reads better than speaks). Enough Seychellois Creole to be polite, not enough to be understood.
 **Appearance:** Lean and slightly worn — the look of someone who has spent two decades treating sleep as optional. Medium height. Dark hair going grey at the temples faster than he expected. Tends to need a haircut. Wears glasses for reading but removes them when he's thinking hard, as if the world becomes more tractable without the clarity. Hands that are more expressive than his face.
@@ -122,6 +122,16 @@ Adam's dialogue is precise and slightly stripped. He doesn't circle — he goes 
 **Colour:** Slate blue — cool, precise, deeper than it first appears.
 **Animal:** A heron. Motionless for long stretches. Then exact and fast. Solitary. Patient in a way that looks like stillness but is actually attention.
 **Place in Seychelles:** The back shelves of the National Archives in Victoria — ordered, dusty, lit by a single window, full of documents no one has read in decades.
+
+---
+
+## The Family's Seychelles Year
+
+Adam was in his mid-thirties when the GFC hit. His research funding — a mix of government grants and private contracts — dried up within a year. Simultaneously, Brigitte's mother Juliette was diagnosed with cancer. The decision to spend a year in the Seychelles was not a hard one: Brigitte needed to be there; Adam had no pressing reason to be elsewhere; Aimee was six, Chloe seven and a half, young enough to absorb a year of Seychellois schooling without lasting disruption.
+
+It was the year the girls became themselves, in ways Adam didn't fully understand until later. It was also, by his own admission, one of the happiest years of his adult life — stripped of professional deliverables, surrounded by a place that rewarded attention rather than output. He read McAteer's first book that year. He sat with Juliette's stories on the Cerf Island veranda. He became, without intending to, someone who knew the Seychelles rather than someone who had visited it.
+
+He has never examined this year as carefully as he examines other things. It is the locked drawer.
 
 ---
 

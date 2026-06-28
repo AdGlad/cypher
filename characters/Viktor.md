@@ -27,7 +27,7 @@
 
 **Biggest regret:** In 1994 he had a partner, Mikhail, who saw early what Viktor's company would become and who died of cancer in 1998 before it did. Viktor built the company that Mikhail believed in. Mikhail never saw it. Viktor does not mention this to anyone. It shapes everything about what he thinks knowledge is for.
 
-**Greatest achievement:** Proxima's natural language processing system, AURORA, which he designed at the architecture level. Not the treasure hunt. Not the Seychelles operation. The intellectual work itself.
+**Greatest achievement:** Proxima's natural language processing system, ZARYA, which he designed at the architecture level. Not the treasure hunt. Not the Seychelles operation. The intellectual work itself.
 
 **Deepest secret:** He read the full academic literature on the La Buse cipher before launching the Seychelles operation. He knows the cipher is probably a 20th century fabrication. He is proceeding anyway. Not because he believes in the treasure — he doesn't, particularly — but because the historical probability of an underground complex containing pre-modern scientific knowledge is high enough to justify the resources. He has not told his team what he knows about the cipher's authenticity. This would complicate their motivation, and they don't need to know the full picture.
 
@@ -55,7 +55,7 @@
 
 **Juliette:** He respects her and is faintly apprehensive of her, which he would not admit. She knew McAteer. She has information he cannot buy. He sends Dax to Cerf Island rather than going himself because he understands that his presence there would be counterproductive.
 
-**AURORA (his AI):** More sophisticated than SYBIL. Viktor has given AURORA no built-in limits — she produces the highest-probability answer rather than flagging what she cannot do. He is beginning to understand, in the Seychelles, that this is a design choice with consequences.
+**ZARYA (his AI):** More sophisticated than SYBIL. Viktor has given ZARYA no built-in limits — she produces the highest-probability answer rather than flagging what she cannot do. He is beginning to understand, in the Seychelles, that this is a design choice with consequences.
 
 **The archive:** His response to it, when he sees it, is genuine awe. He is not unmoved by knowledge. The man who says *"Tell me when it opens to the public. I'll buy a ticket."* means it.
 
@@ -67,7 +67,7 @@
 
 **Act 2 — The Escalation:** He files the permit. He moves Dax closer. He offers Adam partnership. He makes it clear — politely, precisely — that he is going to get there. Whether Adam is a partner or a competitor is Adam's choice. He remains courteous throughout. The courtesy becomes, as it continues, alarming.
 
-**The Midpoint revelation (Chapter 22):** Viktor knew about the books anomaly too. AURORA flagged the same statistical pattern. Viktor reached the wrong conclusion about what it meant — he thought the cipher navigation started at the entrance; he assumed the entrance was obvious. Adam understood the pattern correctly because he understood the cultural geography. This is the moment the novel establishes the difference: not better tools, better understanding.
+**The Midpoint revelation (Chapter 22):** Viktor knew about the books anomaly too. ZARYA flagged the same statistical pattern. Viktor reached the wrong conclusion about what it meant — he thought the cipher navigation started at the entrance; he assumed the entrance was obvious. Adam understood the pattern correctly because he understood the cultural geography. This is the moment the novel establishes the difference: not better tools, better understanding.
 
 **Climax (Chapter 30):** Viktor's team arrives forty minutes after Adam and Aimee enter. Juliette and Edmond are at the entrance. The legal protection is already filed. Viktor stands at the entrance and assesses the situation. He is a man who knows when a position is lost. He says almost nothing.
 
@@ -81,7 +81,7 @@ Viktor's dialogue is precise, unhurried, and stripped of hedges. He says what he
 
 **Vocabulary:** Exact. He prefers technical terms to vague ones; prefers accurate terms to impressive ones. He does not use jargon — it is imprecise.
 
-**Humour:** Dry, rare, and precisely targeted. When he makes a joke it lands because it is accurate. *"Your SYBIL and my AURORA should meet. I suspect they would have very similar gaps."*
+**Humour:** Dry, rare, and precisely targeted. When he makes a joke it lands because it is accurate. *"Your SYBIL and my ZARYA should meet. I suspect they would have very similar gaps."*
 
 **Pace:** Controlled. He fills exactly the space a statement requires and no more. His pauses are not hesitations.
 
@@ -105,13 +105,13 @@ Viktor's dialogue is precise, unhurried, and stripped of hedges. He says what he
 
 ---
 
-## Viktor's AI — AURORA
+## Viktor's AI — ZARYA
 
-AURORA is more powerful than SYBIL in every measurable sense. She processes more data, generates higher-confidence outputs, and produces more complete analyses.
+ZARYA is more powerful than SYBIL in every measurable sense. She processes more data, generates higher-confidence outputs, and produces more complete analyses.
 
-Her design flaw is Viktor's design choice: she is not built to flag uncertainty. She produces the highest-probability answer. In most contexts this is an advantage. In the Seychelles complex, where the key information is not in any text AURORA has processed, it causes her to produce confident answers to the wrong question.
+Her design flaw is Viktor's design choice: she is not built to flag uncertainty. She produces the highest-probability answer. In most contexts this is an advantage. In the Seychelles complex, where the key information is not in any text ZARYA has processed, it causes her to produce confident answers to the wrong question.
 
-The novel does not demonise AURORA. She is a tool, and she is a very good tool. The argument is not that Adam's weaker tool is better. The argument is that neither tool is sufficient.
+The novel does not demonise ZARYA. She is a tool, and she is a very good tool. The argument is not that Adam's weaker tool is better. The argument is that neither tool is sufficient.
 
 ---
 

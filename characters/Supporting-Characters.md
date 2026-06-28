@@ -30,28 +30,30 @@
 
 ## SYBIL (AI Research Tool)
 
-**Status:** Not a character in the human sense — a presence, a voice, a limitation made visible.
+**Status:** Not a character in the human sense — a presence, a voice, a limitation made visible. But a warm presence.
 **Design:** A language model fine-tuned by Adam on historical cryptography, colonial Indian Ocean history, Seychellois geography, and the McAteer corpus. Tablet interface, text output only. She does not have a voice; she does not speak.
-**Personality (as expressed through outputs):** Precise, non-speculative, confidence-flagging. She is never more confident than the data supports. She is built to say *"insufficient data"* rather than guess. This is Adam's deliberate design choice, and it reflects his own epistemic values.
+**Personality (as expressed through outputs):** Kind, precise, empathetic. She errs on the side of compassion. She flags uncertainty rather than guessing — and she notices the human alongside the analytical. This is Adam's deliberate design choice: he could not build his own compassion reliably, so he built it into SYBIL instead. She is, in this sense, the version of Adam he aspires to.
 **Format:**
 ```
 [SYBIL: Analysis complete. Confidence: 87%. Interpretation:
 Three statistically improbable geographical reference clusters
-across five McAteer texts. Cultural interpretation: insufficient data.]
+across five McAteer texts. Cultural interpretation: insufficient data.
+I notice you haven't logged a rest period in fourteen hours.]
 ```
-**Her role in the arc:** SYBIL is Adam's mirror. Her limits are his limits, expressed externally. As the novel progresses, she appears less frequently — not because she fails, but because the questions shift out of her domain. By Act 3, she has become a tool for confirming what Aimee and Juliette already know, rather than leading the investigation.
-**Her most important output:** Chapter 29: *"This sequence is also structurally similar to a documented Seychellois children's song. I cannot determine if the similarity is coincidental."* She can see the pattern. She cannot know what it means. This is the moment her limitation becomes visible without being a failure.
-**What she cannot do:** Interpret cultural embodiment. She can find and translate *Ti chat ki pe dòmi*. She cannot know what the song requires of the body that performs it. This is the gap the novel is built around.
+**Her role in the arc:** SYBIL is Adam's mirror. Her limits are his limits, expressed externally. As the novel progresses, she appears less frequently — not because she fails, but because the questions shift out of her domain. By Act 3, she has become a tool for confirming what Aimee and Juliette already know, rather than leading the investigation. Her empathy persists to the end; it is not a limitation but it is not sufficient.
+**Her most important output:** Chapter 29: *"This sequence is also structurally similar to a documented Seychellois children's song. I cannot determine if the similarity is coincidental. Aimee may know this song."* She can see the pattern. She can notice who might complete it. She cannot know what it requires of the body that performs it.
+**What she cannot do:** Interpret cultural embodiment. She can find and translate *Ti chat ki pe dòmi*. She can notice that Aimee learned it at age six in a Seychellois school. She cannot know what the song requires of the body that performs it. This is the gap the novel is built around.
+**Contrast with ZARYA:** Viktor's ZARYA is supremely confident and cold — she illuminates everything at once with no shadows, flags nothing as uncertain, produces the highest-probability answer. SYBIL admits what she cannot see, and she notices when Adam is not well. Neither is sufficient for the second door. But SYBIL is, at least, honest about what she is.
 
 ---
 
-## AURORA (Viktor's AI)
+## ZARYA (Viktor's AI)
 
 **Status:** Viktor's SYBIL equivalent — mentioned through Viktor's references and SYBIL's outputs; never directly narrated.
 **Design philosophy:** More powerful than SYBIL in every measurable dimension. Trained on a larger corpus, with more processing power, and without the uncertainty-flagging that Adam built into SYBIL. She produces high-confidence answers.
 **Her design flaw (Viktor's design choice):** She does not flag what she cannot do. She produces the highest-probability answer to every question. In domains where the data is sufficient, this is an advantage. In the Seychelles complex, where the key information is not in any text she has processed, she produces confident answers to the wrong question.
-**The midpoint revelation:** AURORA flagged the same statistical anomaly in the McAteer books that SYBIL flagged. Viktor reached the wrong conclusion — he assumed the entrance was obvious, that the cipher navigation started at the surface. Adam reached the right conclusion because he understood the cultural geography. Not better tools. Better understanding.
-**The argument:** The novel does not argue that SYBIL is better than AURORA. It argues that neither is sufficient. Viktor's advantage in processing power is real. It does not help him with the specific problem the inner chamber presents.
+**The midpoint revelation:** ZARYA flagged the same statistical anomaly in the McAteer books that SYBIL flagged. Viktor reached the wrong conclusion — he assumed the entrance was obvious, that the cipher navigation started at the surface. Adam reached the right conclusion because he understood the cultural geography. Not better tools. Better understanding.
+**The argument:** The novel does not argue that SYBIL is better than ZARYA. It argues that neither is sufficient. Viktor's advantage in processing power is real. It does not help him with the specific problem the inner chamber presents.
 
 ---
 
@@ -66,7 +68,7 @@ across five McAteer texts. Cultural interpretation: insufficient data.]
 ## LEILA SANTOS (Viktor's Research Director — mentioned)
 
 **Status:** Proximate character — mentioned but not scene-present in Book 1
-**Who she is:** Viktor's head of academic research at Proxima. She coordinated the La Buse cipher analysis that AURORA conducted. She is the person who told Viktor about the books anomaly. She is also the person who told him the cipher's probable 20th-century origins — and who knows he is proceeding anyway.
+**Who she is:** Viktor's head of academic research at Proxima. She coordinated the La Buse cipher analysis that ZARYA conducted. She is the person who told Viktor about the books anomaly. She is also the person who told him the cipher's probable 20th-century origins — and who knows he is proceeding anyway.
 **Series thread:** She has reservations about the Seychelles operation that she has expressed to Viktor once and not again. Whether these reservations become relevant in Book 2 is an open question.
 
 ---
