@@ -5,11 +5,11 @@
 ## Basic Profile
 
 **Full name:** Chloe Marie Gladstone
-**Age:** 26 (18 months older than Aimee)
+**Age:** 25 (born 1 January 2000 — two years and six months older than Aimee)
 **Nationality:** Australian (born Australia; Seychellois heritage through Brigitte)
 **Occupation:** Marine environmental consultant, based in Perth. Works on reef assessment and coastal development impact projects. She chose her mother's world, more or less — the practical applied version of it.
 **Education:** BSc Environmental Science, University of Western Australia. Working toward a professional qualification in marine impact assessment.
-**Languages:** English (native). Seychellois Creole (genuinely good — she was seven and a half during the Seychelles year, old enough to acquire it but not quite at the absorption age Aimee was at six). French (functional — better than Aimee's, less fluid than Brigitte's). She knows the Creole but she uses it more consciously than Aimee does; it doesn't slip out involuntarily the way Aimee's does.
+**Languages:** English (native). Seychellois Creole (genuinely good — she was nine during the Seychelles year, old enough to acquire it well but not quite at the absorption age Aimee was at seven). French (functional — better than Aimee's, less fluid than Brigitte's). She knows the Creole but she uses it more consciously than Aimee does; it doesn't slip out involuntarily the way Aimee's does.
 **Appearance:** More like Adam than Brigitte — taller, fairer, the build of someone who swims. More physically organised than Aimee; her clothes fit and are where she left them. Has Brigitte's directness in the face; has Adam's eyes.
 **Mannerisms:** Practical and quick to act. Does not linger on a problem — identifies the most probable solution, commits to it, revises if wrong. Impatient with extended deliberation. When she's wrong, she says so without drama and moves on. This is her best quality. She is often the first person to say the obvious thing that everyone else has been circling.
 **Health:** Excellent. Surfs. Runs. Does not treat her body as something to be managed.
@@ -19,9 +19,11 @@
 
 ---
 
-## The Seychelles Year
+## The Seychelles — Annual Holidays and the 2008 Year
 
-Chloe was seven and a half during the family's year in the Seychelles. She and Aimee attended the same school. Chloe's Creole came quickly — she was competitive about it, in the way older children are competitive, wanting to match her younger sister. She did match her, almost. But the gap between seven-and-a-half and six is real: Aimee's Creole went in at the cellular level; Chloe's went in as a language she learned.
+From early childhood, Chloe and Aimee travelled to the Seychelles every Australian winter (June–August) for up to six weeks, staying at Bill and Juliette's house in Glacis, northern Mahé. They went to Beau Vallon beach, explored the islands by boat (Amit's *Sea Shell*), and visited Cerf Island to see Edmond. Adam came sometimes; other times he remained in Australia for work. These annual visits gave Chloe and Aimee a childhood geography of Mahé — Beau Vallon, Glacis, the inner islands — that is embedded rather than visited.
+
+**The 2008 year:** Chloe was nine during the family's full year in the Seychelles. She and Aimee attended the same school (the Independent School, Victoria, Mahé). Chloe's Creole came quickly — she was competitive about it, in the way older children are competitive, wanting to match her younger sister. She did match her, almost. But the gap between nine and seven is real: Aimee's Creole went in at the cellular level; Chloe's went in as a language she learned.
 
 She remembers the year vividly and consciously. The school, the friends, the beach, the tortoises on Moyenne Island. She can tell you what happened; Aimee can show you what it felt like.
 
@@ -53,7 +55,7 @@ This is the distinction the novel is built around, and Chloe is its clearest ill
 
 **Brigitte:** They argue more than Brigitte and Aimee do, and are more alike. Chloe is the one who pushes back on Brigitte's decisions rather than accepting them. Brigitte values this, even when she doesn't show it.
 
-**Juliette:** Warm and slightly formal — Chloe loves Juliette but Juliette's knowledge is not Chloe's knowledge. She is respectful, attentive, and honest with Juliette. Juliette is fond of her and trusts her practically. The deeper recognition — the one Juliette has with Aimee — is not there, and neither of them minds.
+**Juliette (deceased, 2015):** Warm and slightly formal — Chloe loved Juliette, though Juliette's knowledge was not Chloe's knowledge. She was respectful, attentive, and honest with her. Juliette was fond of her and trusted her practically. The deeper recognition — the one Juliette had with Aimee — was not there, and neither of them minded.
 
 **Viktor:** She clocks him immediately and dislikes him with more specificity than Aimee does. Aimee distrusts him instinctively; Chloe dislikes him analytically — she can name what she doesn't trust. She is, in one exchange, unexpectedly effective against Dax: she identifies him as operational before Adam does, because she reads practical intentions clearly.
 
