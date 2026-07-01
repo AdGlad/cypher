@@ -69,6 +69,10 @@
 
 **The Midpoint revelation (Chapter 22):** Viktor knew about the books anomaly too. ZARYA flagged the same statistical pattern. Viktor reached the wrong conclusion about what it meant — he thought the cipher navigation started at the entrance; he assumed the entrance was obvious. Adam understood the pattern correctly because he understood the cultural geography. This is the moment the novel establishes the difference: not better tools, better understanding.
 
+That night, Viktor goes to the roof terrace of his rented villa above Victoria. He can see the harbour. He can see Moyenne Island in the dark. He thinks about Mikhail — his partner, dead since 1998, who believed in Proxima before Proxima was real. Viktor built the company Mikhail believed in. ZARYA is the best thing he has ever built. He built it for Mikhail, in the sense that a man builds things for someone who cannot see them anymore.
+
+ZARYA cannot solve this. He does not decide anything on the terrace. He goes back inside. But the reader understands: this is not treasure-hunting. Viktor is looking for proof that what he built is sufficient. The Deschamps archive would be that proof — the most significant collection of human knowledge in three centuries, delivered by AI. That was the dream. The dream is in trouble.
+
 **Climax (Chapter 30):** Viktor's team arrives forty minutes after Adam and Aimee enter. Juliette and Edmond are at the entrance. The legal protection is already filed. Viktor stands at the entrance and assesses the situation. He is a man who knows when a position is lost. He says almost nothing.
 
 **Ending:** The concession is genuine, not performative. He has seen the archive. He knows what it is. He will find another way in — through channels, through the Institute, through the academic process. He says so. He means it. He leaves on a note that is neither defeat nor victory, which is the most accurate note available to him.

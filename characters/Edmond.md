@@ -8,7 +8,7 @@
 **Age:** 71
 **Nationality:** Seychellois (Juliette is his younger sister — the Beaumont family has been on Cerf Island for four generations)
 **Occupation:** Retired. Formerly a merchant shipping agent and land broker. In practice: still conducting business through a network of relationships that has no formal name and does not require one.
-**Connection to Adam:** Brigitte's great-uncle (Juliette is Brigitte's mother; Edmond is Juliette's brother). Adam has met Edmond twice before the novel begins, during Seychelles visits. He found Edmond charming, slightly elusive, and hard to place.
+**Connection to Adam:** Brigitte's great-uncle (Juliette was Brigitte's mother; Edmond is Juliette's brother — she died in 2015). Adam has met Edmond twice before the novel begins, during Seychelles visits. He found Edmond charming, slightly elusive, and hard to place.
 **Languages:** Seychellois Creole (mother tongue). French (fluent). English (very good — he acquired it for business; he uses it with Adam, which is a form of courtesy and a mild restriction on what he says).
 **Appearance:** A large man who has become a substantial one. He was tall and athletic; at 71 he is simply large, moving with the deliberateness of someone who has been important for a long time and sees no need to hurry. Silver hair, a neat beard. His clothes are practical but carefully chosen. He has worn the same style of watch — a 1970s Longines on a leather strap — for forty years.
 **Mannerisms:** Communicates through anecdote and example rather than direct statement. He has never in his adult life told anyone directly what to do — he tells stories until the other person understands what the right action is. This method is so habitual that even people who have known him for decades occasionally miss the instruction inside the story. Adam learns to hear it.
@@ -44,9 +44,27 @@ His method throughout is the same: he tells a story. Adam gets better at hearing
 
 ---
 
+## Inherited Functions (from Juliette, who died 2015)
+
+When Juliette died, Edmond became the keeper of McAteer's plan. She had time to transfer the obligation properly — she extracted from him the same promise she had given McAteer: wait for the right moment; give the right person the tools; don't lead anyone there directly. He has held this for eleven years.
+
+**What Edmond now does that was previously Juliette's role:**
+
+1. **Sends the parcel** — The annotated copy of *Rivals in Eden* and McAteer's note were left in Edmond's keeping after Juliette died. He has waited. Viktor's survey permit application, flagged to him by his land registry contact, is what triggers him to act. The return address on the parcel is Cerf Island — his home.
+
+2. **The Chapter 2 phone call** — Adam calls Edmond after opening the parcel. Edmond confirms McAteer's instructions and says: come.
+
+3. **The Antigone Bookshop meeting (Chapter 8)** — Edmond is waiting there. He knew Antigone Bookshop because McAteer knew it. He delivers McAteer's method in his own words: *"He said the books must do the work. The reader must earn the knowing."*
+
+4. **Cerf Island and McAteer's study (Chapter 11)** — Edmond has kept the family home. McAteer's study is preserved because Edmond preserved it — not from sentimentality but from understanding that it would matter. He removes the cloth from the floor plan himself.
+
+5. **Staged revelation** — Edmond manages what he tells Adam and when. His method (anecdote and indirection) is different from Juliette's (stillness and precision) but the underlying discipline is the same. He learned it from watching her.
+
+---
+
 ## Relationships
 
-**Juliette:** His younger sister. They have been close all their lives, separated by McAteer's Edinburgh years and reunited when Juliette returned to Cerf Island. They communicate the way people do who have known each other longer than they have known anyone else — elliptically, efficiently, with entire conversations conducted in a sentence each. They do not always agree, and their disagreements are brief and resolved.
+**Juliette (deceased 2015):** His younger sister. They were close all their lives. She died of cancer in 2015 — a recurrence of the diagnosis that had brought the family to the Seychelles in 2008. He was with her. She told him everything she knew about McAteer's plan in the weeks before the end. He has carried it since. He does not speak of her often; when he does it is briefly and with complete accuracy, which is how he loved her.
 
 **Adam:** Edmond has assessed Adam over the two previous visits and made a judgment: capable, under-socialised in the Seychellois sense, honestly motivated. He has decided Adam is worth helping. He helps him in the way he helps everyone — obliquely, through anecdote, through the door he opens without naming. Adam initially reads this as social convention. The moment Adam begins treating Edmond's stories as data is a turning point in their relationship. When Adam finally thanks Edmond directly for what he's done, Edmond dismisses it — *"I am old and I enjoy a story. You gave me stories to think about."*
 
