@@ -87,9 +87,10 @@ The year-long stay (Juliette's cancer diagnosis + GFC) was different from the ho
 | Date | Event | Characters involved |
 |------|-------|-------------------|
 | Late 1970s | Bill McAteer meets Juliette at Fisherman's Cove (Raymonde's hotel) | Bill, Juliette, Raymonde |
-| c.1982 | Brigitte born, Seychelles | Brigitte, Bill, Juliette |
-| c.1984 onwards | Brigitte grows up between Seychelles and wherever McAteer has academic appointments | Brigitte, Bill, Juliette |
-| Late 1990s–early 2000s | Adam and Brigitte meet at university (both studying mathematics/quantitative science) | Adam, Brigitte |
+| 1966 | **Brigitte born, Kampala, Uganda** — Bill working as university lecturer there; family moves to Nairobi shortly after | Brigitte, Bill, Juliette |
+| 1966 onwards | Brigitte grows up mainly in Nairobi; school holidays in Seychelles as Bill and Juliette develop the Glacis family homes. Siblings Ian (b.c.1959) and Jean (b.c.1961) at boarding school in Zimbabwe — Brigitte effectively an only child. | Brigitte, Bill, Juliette |
+| c.1979 | Brigitte sent to boarding school, St Andrews, Scotland (age 13) — enormous cultural shock; sister Jean also at the school | Brigitte, Jean |
+| c.1984–1990s | Brigitte at university studying applied mathematics / quantitative environmental science; meets Adam in the same mathematics faculty | Adam, Brigitte |
 | 1 Jan 2000 | Chloe born | Adam, Brigitte, Chloe |
 | 9 Jul 2002 | Aimee born | Adam, Brigitte, Aimee |
 | Early 2000s onwards | **Annual Seychelles holidays begin** — girls travel to Glacis every Australian winter (June–August), up to six weeks. Stay at Bill and Juliette's house. Beau Vallon, island exploration, boat trips with Amit on Sea Shell. Adam comes when he can; sometimes stays in Australia for work. | Aimee, Chloe, Brigitte, (Adam sometimes), Bill, Juliette, Amit |
