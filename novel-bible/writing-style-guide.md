@@ -55,6 +55,10 @@ Keep it purposeful. Every line of dialogue should do at least two things:
 
 **Juliette:** Careful, considered. She chooses words the way a linguist does — with awareness of what other words could have been chosen instead. When she is being direct, it feels significant.
 
+**Brigitte:** Steady, precise, and economical. She doesn't perform emotions she is actually feeling. Her French is perfect and she uses it without announcing it. When she reveals something she has been carrying for years, the weight of it is in what she doesn't say around it.
+
+**Chloe:** Wry, precise, slightly competitive with Aimee in the loving way of close sisters. She thinks the way Adam thinks — analytically, linearly — and is comfortable with data. She is good company. She is wrong about one important thing, and she knows it the moment Aimee opens the door.
+
 **Edmond:** Elliptical, story-based. He communicates in examples and anecdotes. He rarely makes a direct statement when he can tell a story that implies it.
 
 **No dialect spelling.** Creole speech should be suggested through rhythm, vocabulary, and cadence — not through phonetic approximation that would feel condescending on the page.
@@ -76,22 +80,43 @@ Rules:
 
 ---
 
-## SYBIL (AI Research Tool)
+## SYBIL and ZARYA (The AI Systems)
+
+### SYBIL (Adam's AI research tool)
 
 SYBIL's outputs appear in a distinct format:
 
 ```
 [SYBIL: Analysis complete. Three anomalies flagged across the McAteer corpus.
-Confidence: 87%. Interpretation: insufficient contextual data for evaluation.]
+Confidence: 87%. Interpretation: insufficient contextual data for evaluation.
+You should ask Juliette.]
 ```
 
 Rules for SYBIL:
 - She is always technically accurate
-- She is never emotionally available
 - She flags what she cannot interpret, rather than guessing
+- She notices the human alongside the analytical — she suggests who to ask, not just what the data says
 - Her presence in a scene should be felt as *useful but limited*
 - She should never be mocked or dismissed — she represents a genuine capability that has genuine limits
 - In Act 3, SYBIL appears less. The human characters are solving what she cannot.
+
+### ZARYA (Viktor's AI system)
+
+ZARYA's outputs appear in a contrasting format:
+
+```
+[ZARYA: Cipher layer 2 complete. Confidence: 94%. Cultural register
+analysis: children's mnemonic, Seychellois Creole tradition. No
+operational relevance detected.]
+```
+
+Rules for ZARYA:
+- She is declarative. No hedging. No suggestions.
+- She does not flag uncertainty — she produces conclusions with confidence scores
+- She does not notice the human. She does not suggest who to ask.
+- She is not inferior to SYBIL in raw capability — she is more powerful
+- She is wrong about the one thing that matters: she cannot distinguish *information* from *meaning*
+- ZARYA should never be written as stupid. She should be written as brilliant and incomplete.
 
 ---
 
@@ -121,7 +146,7 @@ Avoid chapters that simply end because the scene is done. Find the moment of max
 
 **Get the real details right.** This novel relies on the Seychelles feeling real, La Buse's historical existence being respected, McAteer's actual books being accurately cited, and the biology of the Coco de Mer being correct.
 
-Where the novel invents (the underground complex, the scientific expedition, the van Houten archive), the invention should feel consistent with everything the reader has learned is true.
+Where the novel invents (the underground complex, the Deschamps archive), the invention should feel consistent with everything the reader has learned is true.
 
 **La Buse cryptogram:** The real cryptogram should be incorporated and its actual text respected. The novel's explanation of it should be consistent with known facts and clearly flagged as fictional interpretation.
 
@@ -151,7 +176,7 @@ Examples of the right register:
 
 > *Viktor didn't hate the sea. He simply didn't trust anything that couldn't be quantified.*
 
-> *Aimee had been seven years old the last time she'd held a Coco de Mer seed. She hadn't forgotten the weight of it.*
+> *Aimee had been six years old the last time she'd held a Coco de Mer seed. She hadn't forgotten the weight of it.*
 
 ---
 

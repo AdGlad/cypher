@@ -6,11 +6,16 @@
 
 | Date | Event |
 |------|-------|
+| **c.1650** | Abel Deschamps born, France — French Huguenot scholar (naturalist, cartographer, linguist) |
+| **October 1685** | Revocation of the Edict of Nantes. Deschamps, as a Protestant, is stripped of his rights and profession. He flees France eastward through Dutch and Portuguese trading networks. |
+| **Late 1680s–early 1690s** | Deschamps arrives in the Indian Ocean region. Begins systematic documentation of the natural world of the pre-colonial western Indian Ocean — species, ecosystems, languages, botanical medicine. |
+| **c.1695–1710** | Deschamps works alone on Mahé for approximately fifteen years. He seals his complete archive in the underground granite complex he has found on the Bel Ombre coast. He knows it will not be found by accident. He expects a reader. |
+| **c.1710** | Abel Deschamps dies on Mahé. His existence passes out of historical record — a footnote in a Dutch trading registry, nothing more. |
 | **1688** | Olivier Levasseur (La Buse — "The Buzzard") born, likely Calais, France |
 | **1716** | La Buse active in the Caribbean; transitions to Indian Ocean piracy |
 | **1720s** | La Buse operates throughout the Indian Ocean — Madagascar, Réunion, Mozambique Channel |
 | **1721** | La Buse captures the Portuguese frigate *Nossa Senhora do Cabo* (Vierge du Cap) at Réunion — his greatest prize. Cargo includes: gold, silver, diamonds, church treasures, sacred artifacts. A scientific expedition is also aboard. |
-| **1721** | The lead scientist aboard the captured ship — identity unknown — and his life's work disappear from historical record. His specimens, journals, and research notes are never recovered. |
+| **1721** | Note: Abel Deschamps pre-dates this capture by a decade. His archive is already sealed on Mahé. La Buse, using the complex as a cache for his prizes, adds treasure but does not disturb the archive — possibly he could not open the inner chamber door. |
 | **1722–1729** | La Buse's movements obscured. He is known to be active around the Seychelles and Mascarene Islands. |
 | **c.1725** | Believed date of the underground complex's use and concealment. La Buse does not build it — he finds it. The complex predates him by decades. Its original builders are unknown. |
 | **1730** | La Buse captured by French authorities on Réunion |
@@ -23,6 +28,7 @@
 | **1993** | Return to multi-party democracy in Seychelles |
 | **2000s** | McAteer publishes his major works: *Rivals in Eden*, *Hard Times in Paradise*, *To Be a Nation*, *Echoes of Eden*, *Another Story* |
 | **2012** | Brendon Grimshaw dies. Bequeaths Moyenne Island to the Seychelles nation. |
+| **[~15 years before novel]** | Adam Gladstone's research funding is stripped by the Global Financial Crisis. Simultaneously, Juliette McAteer is diagnosed with cancer. The Gladstone family — Adam, Brigitte, Chloe (age 7.5), Aimee (age 6) — spend a year in the Seychelles. The girls attend a local school. Aimee learns *Ti chat ki pe dòmi* on the playground. This is the most difficult and most alive year of Adam's life. |
 | **[Pre-novel, ~3 years before]** | William McAteer dies. Juliette remains in the Seychelles. |
 
 ---
@@ -41,7 +47,7 @@
 | **Day 2** | Adam researches McAteer's books. Notices anomalies — specific page references, unusual word choices, marginal annotations that don't match the published text. |
 | **Day 3** | Adam contacts Juliette. She confirms McAteer knew something. She won't say more over the phone. |
 | **Day 4** | Viktor Volkov's team, using satellite imagery and quantum computing analysis of the cipher, has narrowed the treasure location to a 400m radius around Bel Ombre. Viktor is in Moscow. His operation in the Seychelles activates. |
-| **Day 5** | Adam books flights. Tells Brigitte. Brigitte suggests bringing Aimee — Aimee has been struggling since university began; a trip back to Seychelles might help. Adam agrees reluctantly. |
+| **Day 5** | Adam books flights. Brigitte has already decided she is coming — the Seychelles is her home as much as anyone's; she does not require persuasion. Brigitte suggests bringing both Aimee and Chloe. Adam agrees. |
 | **Day 6–7** | Travel. Adam re-reads McAteer's five books on the flight. |
 
 ---
@@ -50,7 +56,7 @@
 
 | Day | Event |
 |-----|-------|
-| **Day 8** | Adam and Aimee arrive in Victoria. Met by Edmond, Brigitte's uncle. First sense of being watched. |
+| **Day 8** | Adam, Brigitte, Aimee, and Chloe arrive in Victoria. Met by Edmond, Brigitte's uncle. The girls' Creole comes back quickly — Aimee's faster than Chloe's, and more naturally. First sense of being watched. |
 | **Day 9** | Visit Juliette at Antigone Bookshop. First substantial conversation. She confirms: McAteer believed the books contained encoded information — not deliberately, but as the residue of his research. The patterns were real. He was frightened by what they implied. |
 | **Day 10** | Adam begins systematic cross-referencing of all five McAteer books. SYBIL (Adam's AI research tool) assists. First partial revelation: three specific location references in different books, read together, point to a specific geological feature at Bel Ombre. |
 | **Day 11** | Aimee explores Beau Vallon. Begins recovering childhood memories. Hears a Creole rhyme from an elderly woman at the beach — a rhyme she half-remembers from school. *Ti chat ki pe dòmi...* (The little cat who sleeps...) She writes it in her notebook. |

@@ -6,17 +6,20 @@
 
 ## Aimee's Childhood in the Seychelles
 
-Aimee lived in the Seychelles during the period her family was based there — Adam's work and Brigitte's family connection brought them there for several formative years of Aimee's childhood.
+When Aimee was six years old, her family spent a year in the Seychelles. Her father's research funding had been stripped by the Global Financial Crisis; her mother's stepmother Juliette had been diagnosed with cancer. The family came to the Seychelles to regroup. Adam worked. Brigitte was home. The girls — Aimee (6) and Chloe (7.5) — attended a local school.
 
-**What she has from that time:**
-- Fluent Seychellois Creole — genuinely fluent, not tourist-level
-- School friendships and cultural knowledge from attending a local school
+**What Aimee has from that year:**
+- Seychellois Creole — genuine childhood fluency, not tourist-level; she speaks it with the Creole of a six-year-old who never forgot
+- School friendships and cultural knowledge: playground games, rhymes, rituals
 - Sensory memories of specific places (Beau Vallon, Vallée de Mai, the market in Victoria)
-- Knowledge of Creole songs, rhymes, and games learned at school and in the community
-- A sense of belonging to this place that she hasn't been able to replicate in Edinburgh
+- *Ti chat ki pe dòmi* — a game she played hundreds of times. Her body knows the sequence.
+- A sense of belonging to this place that she hasn't been able to replicate in Perth
 
 **Why she wanted to come:**
-Aimee is at a difficult point — university isn't working the way she hoped. She is intellectually capable but searching for something she can't name. The Seychelles represents the last time she felt genuinely at home.
+Aimee is at a difficult point — she deferred her degree at the University of Western Australia. She is intellectually capable but searching for something she can't name. The Seychelles represents the last time she felt genuinely at home.
+
+**The Chloe distinction:**
+Chloe was 7.5 during the same year. She attended the same school. She has the same Creole and knows the same rhymes — including *Ti chat ki pe dòmi*. She can recite all three verses. She cannot perform the sequence correctly when it matters. She learned it as text; Aimee learned it as a game. This is not a failure of Chloe's intelligence. It is a difference in how the knowledge was encoded.
 
 Her return triggers a progressive recovery of childhood sensory and cultural memories. This is not dramatic amnesia recovery — it is the natural resurfacing of things that were always there, waiting for the right environment.
 

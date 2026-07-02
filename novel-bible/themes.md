@@ -34,7 +34,9 @@ Aimee opens the door not because she is cleverer than Viktor's system. She opens
 
 **Dramatised through:**
 - SYBIL's useful limits (she can find patterns; she cannot feel them)
+- ZARYA's confident failure (she translates the rhyme perfectly; declares it has "no operational relevance")
 - Viktor's cipher analysis (technically superior; culturally incomplete)
+- **Chloe's failure at the door** — the novel's clearest single demonstration: Chloe knows the rhyme as text and cannot open the door. Aimee knows it as a game and can. This is the thesis made flesh.
 - Aimee's rhyme (not decoded — recognised)
 - McAteer's books (not deliberately encoded — accumulated)
 
@@ -125,7 +127,7 @@ The archive documents species and ecosystems that no longer exist. Its scientifi
 The Seychelles is itself a conservation story: the Coco de Mer, the Black Parrot, the marine park system. The novel sits within this context.
 
 **Dramatised through:**
-- The archive's contents (van Houten's journals, specimens, drawings)
+- The archive's contents (Deschamps's journals, specimens, drawings)
 - The Vallée de Mai as a preserved ecosystem
 - Grimshaw's Moyenne Island as a conservation legacy
 - The Institute's mandate (education, conservation, cultural preservation)

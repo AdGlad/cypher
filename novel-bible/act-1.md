@@ -11,11 +11,11 @@
 
 ## Act 1 Goals
 
-1. Introduce Adam Gladstone — his skills, his temperament, his relationship with Aimee and Brigitte
+1. Introduce Adam Gladstone — his skills, his temperament, his relationships with Brigitte, Aimee, and Chloe
 2. Establish the McAteer connection — who he was, why his books matter
 3. Introduce Viktor Volkov — charming, resourceful, clearly operating with purpose
 4. Deliver the inciting packet: Juliette's parcel; the note; the annotated book
-5. Get Adam and Aimee to the Seychelles with believable motivation
+5. Get the whole family — Adam, Brigitte, Aimee, and Chloe — to the Seychelles with believable motivation
 6. Establish Juliette, Edmond, and the social/historical landscape of Mahé
 7. First turn of the clue chain: the books as the real key
 8. End Act 1 with Adam committed — the entrance exists; he can find it; the race is real
@@ -25,7 +25,7 @@
 ## Chapter Breakdown
 
 ### Chapter 1 — The Package
-*[Edinburgh / Adam's office]*
+*[Perth / Adam's office]*
 Adam receives a parcel from the Seychelles. Return address: Juliette McAteer, Cerf Island. Inside: William McAteer's personal annotated copy of *Rivals in Eden*. A handwritten note in McAteer's hand (written before his death, forwarded by Juliette with a delay he'd specified): *"The entrance is in the books. All of them. I didn't put it there. It was already there. — W.M."*
 
 **Function:** Inciting object. Establish Adam's character (his reaction to the book is analytical, almost cold — until he reads the note twice).
@@ -33,7 +33,7 @@ Adam receives a parcel from the Seychelles. Return address: Juliette McAteer, Ce
 ---
 
 ### Chapter 2 — Who Was William McAteer
-*[Edinburgh / Adam's home / phone call with Juliette]*
+*[Perth / Adam's home / phone call with Juliette]*
 Adam calls Juliette. She is careful, formal, not unfriendly. She confirms McAteer left specific instructions — Adam is the person he wanted to receive the book. Why Adam? McAteer knew Brigitte. He knew the family. He trusted Adam's specific combination of mathematical rigour and genuine curiosity. She will not say more on the phone.
 
 Weave in: who McAteer was. The books. The scope of his research. His reputation. His final years of increasing preoccupation with something he wouldn't name.
@@ -55,7 +55,7 @@ He gives the order: move the Seychelles operation to active phase.
 ---
 
 ### Chapter 4 — SYBIL and the Anomaly
-*[Edinburgh / Adam's office]*
+*[Perth / Adam's office]*
 Adam gives SYBIL all five McAteer books. SYBIL's analysis: three categories of anomaly.
 1. Unusual geographical precision in five specific passages across three books
 2. A pattern in footnote citation structure that appears non-random
@@ -70,20 +70,22 @@ Weave in: what SYBIL is. How Adam built her. The philosophical problem she repre
 ---
 
 ### Chapter 5 — Brigitte and Aimee
-*[Adam's home, Edinburgh evening]*
+*[Adam's home, Perth evening]*
 Adam tells Brigitte what the parcel contained, what Juliette said, what SYBIL found. Brigitte is not surprised in the way he expects — she knew McAteer. He was her father's old friend. She knew he was "working on something." She never pressed.
 
 Aimee is at the table. She has been listening. She has not spoken. Then: *"I want to come."*
 
 The family argument that isn't quite an argument. Aimee's reasons are personal — she misses the Seychelles. She grew up partly there. She went to school there. Her Creole is still good. Adam's reasons for hesitation are reasonable. Brigitte's reasons for including Aimee override them.
 
-**Function:** Family dynamics. Aimee's introduction. Establish why Aimee's childhood knowledge matters before the reader knows that it does.
+Chloe is also at the table. She wants to come too. She is quieter about it than Aimee — she says it once, and that is enough.
+
+**Function:** Family dynamics. Introduce both daughters. Aimee and Chloe's parallel Creole knowledge is seeded here — the reader cannot yet know what it means that Aimee knows it *differently*.
 
 ---
 
 ### Chapter 6 — Edmond
 *[Victoria, Mahé — arrival day]*
-They land. The heat. The scale of the sky. Aimee's immediate physical relaxation when she steps off the plane — she has come home in a way Edinburgh never made her feel.
+They land. The heat. The scale of the sky. Aimee's immediate physical relaxation when she steps off the plane — she has come home in a way Perth never made her feel.
 
 Edmond is waiting. He drives an old Land Cruiser. He is seventy-something, unhurried, with the quiet authority of a man who has survived several versions of the Seychelles. He embraces Aimee first. He appraises Adam with something between respect and scrutiny.
 

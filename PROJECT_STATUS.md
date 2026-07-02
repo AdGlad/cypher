@@ -70,7 +70,7 @@
 - [ ] Decide: does Viktor find the entrance via radar before Adam solves the books? (Current plan: Adam solves books first; Viktor uses radar as a parallel track that reaches the entrance area but cannot identify the specific tidal channel without being there)
 - [ ] Decide: what exactly does Dax do after the confrontation? Leave? Stay? (Book 2 thread)
 - [ ] Decide: does the story include a prologue? (Possible: a short historical scene from 1721 or 1730 — La Buse at the entrance — which the reader understands only at the end)
-- [ ] Decide: exact title of the institute (current: Van Houten-McAteer Institute for Natural History and Conservation)
+- [x] Institute name: **The Deschamps-McAteer Institute for Natural History and Conservation** (resolved — decision #13)
 
 ### Chapter Development
 - [ ] Expand chapters 2–40 from act outlines into full detailed outlines

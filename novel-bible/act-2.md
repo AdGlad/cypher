@@ -143,9 +143,22 @@ Viktor stares at the radar image for a long time. *"Who built this?"* No one ans
 
 ---
 
-### Chapter 22 — The Confrontation on the Water
-*[Small boat, offshore Mahé — night before first attempt]*
-Juliette tells Adam what she has been holding back. McAteer's private study on Cerf Island wasn't just a study — it was where he received someone, years ago. A European academic who had independently studied the cipher and reached the same conclusion McAteer had: the cipher is interior navigation, not exterior direction-finding. They met twice. On the second visit, the academic disappeared from the historical record.
+### Chapter 22 — Two Kinds of Failure
+*[Intercut: small boat offshore Mahé / Viktor's terrace above Victoria — the same night]*
+
+**Viktor's thread:** Viktor stands alone on his hotel terrace above Victoria. Below him, the lights of the harbour. His radar survey has found the void. His lawyers have filed the permit. He has 36 hours.
+
+He has also been told that Adam Gladstone was at Bel Ombre the previous night and retreated. Viktor calculates: Adam has solved the entrance. He got there first.
+
+For the first time in this operation, Viktor understands he may be second.
+
+He thinks about Mikhail — his partner, who died in 1998, in the chaos after the Soviet collapse. Mikhail believed that human knowledge was the only thing that survived everything else. Viktor built Proxima in the years after. ZARYA is the best thing he has built. But ZARYA did not solve this. The archive — if it exists — would have been proof: that what he built was sufficient. That Mikhail's belief, and Viktor's work, were enough.
+
+He goes inside. He does not explain himself. The reader understands.
+
+*[This scene is brief — no more than 400 words. Viktor does not deliver a monologue. The reader extrapolates.]*
+
+**Adam's thread:** On the boat, Juliette tells Adam what she has been holding back. McAteer's private study on Cerf Island wasn't just a study — it was where he received someone, years ago. A European academic who had independently studied the cipher and reached the same conclusion McAteer had: the cipher is interior navigation, not exterior direction-finding. They met twice. On the second visit, the academic disappeared from the historical record.
 
 Juliette doesn't know who sent this person or who made them disappear. But she knows it happened. And she knows Viktor's organisation was active in the region that year.
 
@@ -179,11 +192,28 @@ Adam: *"Yes. That's why we have to get there first."*
 
 ---
 
-### Chapter 25 — Père Henri's Second Conversation
-*[Phone call with Père Henri]*
+### Chapter 25 — The Turn
+*[Phone call with Père Henri → Adam and Aimee, afterwards]*
+
 Henri calls Juliette. He has remembered something he didn't say in person. McAteer, in his last months, said something about the inner chamber — not the treasure chamber, but what he called "the room behind the room." McAteer said: *"The key to that room is not written down anywhere. It lives in the people."*
 
 Henri: *"He was not being poetic. He meant a specific thing. He knew what the key was. He just knew it couldn't be written down without being found."*
+
+Adam relays this to Aimee. She goes still. Something assembles.
+
+*"I know what it is."*
+
+Adam starts to ask her to run it through SYBIL — and stops himself. He recognises what he was about to do. He puts the tablet down.
+
+*"Tell me what you mean."*
+
+She tries to explain. She cannot make it analytical. She describes the rhyme, the game, the way her hands still know the sequence. He listens — not processing, not cross-referencing. Just listening.
+
+When she finishes: *"All right."*
+
+Not *you're right* — which would require him to have verified it. Not *let's test it* — which would route it through SYBIL. Just: *All right.* He believes her. That is the turn.
+
+**Structural note:** This is the novel's pivot. Everything before it has been Adam filtering the world through data. Everything after it is Adam trusting a different kind of knowing. The scene should be understated — no ceremony, no dramatic beat. He just puts the tablet down and listens.
 
 ---
 

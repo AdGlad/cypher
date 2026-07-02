@@ -14,6 +14,12 @@ Russian billionaire Viktor Volkov has spent years hunting the legendary treasure
 
 ---
 
+## Prologue
+
+Two scenes. Scene 1: La Buse at the entrance to the underground complex, Bel Ombre, c.1727 — before dawn, alone, his last visit. Scene 2: his capture and execution at Saint-Denis, Réunion, 7 July 1730 — the cipher thrown into the crowd. The prologue ends with a single line: *Two hundred and ninety-nine years later.* The reader does not understand Scene 1 until they reach the novel's climax.
+
+---
+
 ## Genre
 
 - **Primary:** Historical Thriller / Mystery Adventure
@@ -51,7 +57,9 @@ Russian billionaire Viktor Volkov has spent years hunting the legendary treasure
 | Character | Role | Core Attribute |
 |-----------|------|---------------|
 | **Adam Gladstone** | Protagonist | Knowledge — analytical, persistent, mathematical |
-| **Aimee Gladstone** | Adam's daughter | Memory — cultural, embodied, essential |
+| **Brigitte Gladstone** | Adam's wife — full character, not phone voice | Belonging — half-Seychellois, McAteer's daughter, carries the secret instruction |
+| **Aimee Gladstone** | Adam's younger daughter (age 24) | Memory — cultural, embodied, essential |
+| **Chloe Gladstone** | Adam's older daughter (age 25) | The thesis made flesh — knows the rhyme as words; cannot perform the sequence |
 | **Viktor Volkov** | Antagonist (sophisticated) | Information — data, AI, vast resources |
 | **William McAteer** | Deceased guide | Documentation — his life's work is the clue |
 | **Juliette McAteer** | Living memory | Connection — people, culture, relationships |
@@ -74,7 +82,7 @@ McAteer's five published histories of the Seychelles, read together, inadvertent
 
 ### The Two Discoveries
 1. **The treasure:** Real gold, silver, jewels, artifacts — the payoff the genre promises
-2. **The archive:** The life's work of a scientist centuries ahead of his time — extinct species documented, biological observations, pre-colonial ecological records
+2. **The archive:** The life's work of **Abel Deschamps** — a French Huguenot scholar who fled France after the Revocation of the Edict of Nantes (1685) and spent two decades documenting the pre-colonial western Indian Ocean. Extinct species, biological observations, reef cartography, botanical medicine — all centuries ahead of their time. Sealed in the complex by Deschamps himself; rediscovered by the Gladstones three hundred years later.
 
 ---
 
@@ -98,7 +106,7 @@ Viktor's AI has more processing power than SYBIL. It has more data. It cannot so
 
 ## The Ending
 
-The discovery is protected. The site becomes an international heritage location under UNESCO consideration. A Seychellois cultural institution — the Van Houten-McAteer Institute for Natural History and Conservation — stewards both the treasure and the archive. The discovery benefits the Seychelles through education, conservation, and cultural recognition.
+The discovery is protected. The site becomes an international heritage location under UNESCO consideration. A Seychellois cultural institution — the Deschamps-McAteer Institute for Natural History and Conservation — stewards both the treasure and the archive. The discovery benefits the Seychelles through education, conservation, and cultural recognition.
 
 The ending is optimistic and earned. The story is not about getting rich. It is about protecting knowledge and passing it to future generations.
 

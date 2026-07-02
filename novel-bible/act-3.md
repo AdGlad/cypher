@@ -103,20 +103,23 @@ Chantal's team secures the site. A portable climate-control unit is sourced from
 
 ### Chapter 36 — What the Archive Contains
 *[Bel Ombre interior — documentation day]*
-The scientist is identified: **Dr. Pieter van Houten**, Dutch, sailing under Portuguese commission in 1721. He was a naturalist and physician. His journals document:
-- Forty-seven plant species, eleven of which no longer exist
+The archive's creator is identified: **Abel Deschamps**, French Huguenot, naturalist, cartographer, and linguist. He fled France in 1685 after the Revocation of the Edict of Nantes stripped Protestants of their rights. He arrived in the Indian Ocean in the late 1680s and spent two decades documenting what he found. He died on Mahé c.1710.
+
+The international historians Juliette called confirm: Deschamps is a real historical figure — almost unknown, a footnote in a Dutch trading registry, a name on a passenger list. He had nowhere to publish. He had no institution. He had only the work. The archive contains:
+- Forty-seven plant species documented with scientific precision, eleven of which no longer exist
 - Biological observations on the Coco de Mer that anticipate modern genetic research by 200 years
 - Detailed drawings of reef ecosystems in the Mascarene region — a baseline record for marine biology
 - Medical treatments derived from endemic plant species, some of which are directly relevant to current pharmaceutical research
-- A complete ecological survey of the pre-colonial Seychelles
+- A complete ecological survey of the pre-colonial western Indian Ocean
+- Linguistic records — vocabulary and structure of Indian Ocean trading languages that no longer exist
 
 The treasure is extraordinary. The archive is paradigm-shifting.
 
-Aimee reads van Houten's opening journal entry — handwritten, in Dutch — and translates it for Adam, haltingly:
+Aimee reads Deschamps's opening journal entry — handwritten, in French — and translates it:
 
-*"I write from the wreck of my understanding. Everything I thought I knew of this ocean and its living world has been revised today. I have seen what no European has seen, and I am aware that I may be the last to see it. I commit it here to the only permanence I can offer: the page."*
+*"I write from the edge of what can be known alone. I have no institution. I have no reader. I have only what I have seen. I commit it here, in this stone that will outlast me, to whoever has the patience to arrive."*
 
-Aimee: *"He knew."*
+Aimee: *"He knew someone would come."*
 
 ---
 
@@ -160,7 +163,7 @@ Juliette: *"He hoped someone would read carefully enough."*
 *[Victoria — press and official announcement]*
 Chantal Labrose gives a press statement: the discovery of a previously unknown underground complex at Bel Ombre, containing significant historical, cultural, and scientific materials, has been made by a team including Dr. Adam Gladstone, Aimee Gladstone, and Dr. Juliette McAteer. The site is under emergency cultural protection. UNESCO notification has been filed.
 
-A Seychellois cultural institution — the **Van Houten-McAteer Institute for Natural History and Conservation** — is proposed to steward the archive and coordinate international research access. The treasure will be placed in the national museum. Proceeds from managed access will fund conservation and education programmes.
+A Seychellois cultural institution — the **Deschamps-McAteer Institute for Natural History and Conservation** — is proposed to steward the archive and coordinate international research access. The treasure will be placed in the national museum. Proceeds from managed access will fund conservation and education programmes.
 
 Edmond watches the press conference from the back of the room. He slips out before it ends.
 

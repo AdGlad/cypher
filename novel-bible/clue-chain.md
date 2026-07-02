@@ -99,24 +99,26 @@ The cryptogram has three sections:
 ## LAYER 3 — AIMEE'S CREOLE RHYME
 
 ### The Rhyme
-*Ti chat ki pe dòmi,* (The little cat who is sleeping,)
-*Frappe lapòrt, li pa rann.* (Knock on the door, it doesn't answer.)
-*Frappe ankor, tounen, atann.* (Knock again, turn around, wait.)
-*Frappe dousman, puis aret.* (Knock softly, then stop.)
-*Ti chat leve — lapòrt ouver.* (Little cat wakes — the door opens.)
+
+> *Full text and physical sequence: see `notes/creole-rhyme.md`*
+
+Three verses. The physical sequence is embedded in Verse 2 — five steps encoded in the gestures of a Seychellois children's playground game. The key line closing Verse 2:
+
+*"Laport louvri pour seki kone"*
+*(The door opens for those who know)*
 
 ### What It Encodes
-The rhyme describes the sequence of physical actions required to trigger the mechanism on the second door:
-1. A firm knock (activates the mechanism)
-2. A second knock (primes it)
-3. Turn the handle/ring (rotation)
-4. Wait (a timed element — approximately 7 seconds)
-5. A soft knock (the final trigger)
-6. Stop completely (do not interfere)
-7. The door opens
+The rhyme describes the sequence of physical actions required to trigger the mechanism on the inner chamber door:
+1. Two firm knocks on a specific stone
+2. Step to the left
+3. Cross to the right wall
+4. Both hands flat on the central keystone
+5. Hold position — the mechanism releases
 
-### Why Viktor's AI Fails
-Viktor's AI translates the rhyme perfectly. It identifies it as a children's game-song. It does not identify it as instructions. The rhyme's *function* in Seychellois Creole culture — as a physical call-and-response game played by children, with specific gestures — is not recoverable from the text alone.
+**The Chloe distinction:** Chloe knows all three verses and can recite them without hesitation. At the door, she performs the sequence wrong — she knows it as words, not as movement. Aimee performs it correctly without pausing to think. She learned it as a game, at age six, on a Seychellois playground. Her body has it.
+
+### Why ZARYA Fails
+Viktor's AI (ZARYA) translates the rhyme perfectly. It identifies it as a children's game-song. It categorises it as having "no operational relevance." The rhyme's *function* in Seychellois Creole culture — as a physical call-and-response game played by children, with specific gestures — is not recoverable from the text alone.
 
 Aimee recognises it because she *played* it at school. Her body knows the sequence. When she reads the door's inscription, she doesn't decode it — she *recognises* it.
 

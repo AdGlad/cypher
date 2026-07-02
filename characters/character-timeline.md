@@ -17,14 +17,14 @@
 | ~1981 | Viktor Volkov born in Moscow | Viktor |
 | ~1986 | Raymond Grimshaw (Brendon's father) buried on Moyenne | Grimshaw |
 | ~1994 | Adam begins PhD at Cambridge | Adam |
-| ~1997 | Adam and Brigitte meet at Edinburgh faculty dinner | Adam, Brigitte |
-| ~2000 | Adam and Brigitte move to Seychelles for Brigitte's first field season | Adam, Brigitte |
-| ~2001 | Aimee born in the Seychelles | Aimee |
-| ~2003 | Adam and Brigitte settle in Edinburgh; continue Seychelles visits | Adam, Brigitte, Aimee |
+| ~1997 | Adam and Brigitte meet at an Perth academic conference (he is postdoc; she is based there briefly) | Adam, Brigitte |
+| ~1999 | Adam and Brigitte marry; settle in Perth, Australia. Adam joins University of Western Australia. | Adam, Brigitte |
+| ~2001 | Aimee born, Perth | Aimee |
+| ~2002 | Chloe born, Perth (18 months older than Aimee — note: if Aimee born 2001, Chloe ~1999/2000) | Chloe |
 | ~2007 | Adam completes SYBIL's first working version | Adam |
-| ~2008 | Aimee attends Seychellois local school during family Seychelles period (~ages 7–12) | Aimee |
+| ~2008 | Global Financial Crisis strips Adam's research funding. Simultaneously, Juliette McAteer diagnosed with cancer. The Gladstone family — Adam, Brigitte, Chloe (7.5), Aimee (6) — spend a year in the Seychelles. Girls attend local school. Aimee learns *Ti chat ki pe dòmi* as a playground game. | Adam, Brigitte, Aimee, Chloe |
 | ~2009 | Moyenne Island designated national park | Grimshaw |
-| ~2013 | Family returns permanently to Edinburgh | Adam, Brigitte, Aimee |
+| ~2009 | Family returns to Perth | Adam, Brigitte, Aimee, Chloe |
 | ~2014 | Dax joins Viktor's Proxima Systems | Viktor, Dax |
 | ~2016 | McAteer, reading all five books in sequence, notices the pattern | McAteer |
 | ~2017 | The disappeared academic visits Cerf Island; subsequently vanishes | Juliette, McAteer |
@@ -32,8 +32,8 @@
 | ~2018 | McAteer makes his decision: he will not act; he will leave the right tools | McAteer |
 | ~2018 | McAteer writes private instruction to Brigitte: "Make sure he takes Aimee." | McAteer, Brigitte |
 | 2021 | McAteer dies. Juliette begins holding the promise. | McAteer, Juliette |
-| 2022 | Viktor formalises his Seychelles operation; AURORA begins cipher analysis | Viktor |
-| 2024 | Aimee begins at University of Edinburgh; finds it is not what she hoped | Aimee |
+| 2022 | Viktor formalises his Seychelles operation; ZARYA begins cipher analysis | Viktor |
+| 2024 | Aimee defers entry at University of Western Australia; finds herself at a crossroads | Aimee |
 | July 2025 | The *Nossa Senhora do Cabo* wreck confirmed at Nosy Boraha, Madagascar — 3,300 artifacts | World / Viktor / Adam |
 | Late 2025 | Juliette sends Adam the parcel: annotated copy of *Rivals in Eden* + private note | Juliette, Adam |
 | Early 2026 | Adam begins running the five books through SYBIL | Adam |
@@ -46,17 +46,17 @@
 
 | Chapter | Date (approx.) | Adam | Aimee | Viktor / Dax | Juliette | Edmond |
 |---------|----------------|------|-------|--------------|----------|--------|
-| Ch. 1 | Week 1 | Receives parcel. Photographs note. Runs SYBIL. Books anomaly confirmed 87%. | — | Viktor already has AURORA results | — | — |
+| Ch. 1 | Week 1 | Receives parcel. Photographs note. Runs SYBIL. Books anomaly confirmed 87%. | — | Viktor already has ZARYA results | — | — |
 | Ch. 2 | Week 1 | Tells Brigitte. She suggests Aimee come. | Aimee invited. Agrees. | Dax in Seychelles, making contacts | Waiting | — |
-| Ch. 3 | Week 1 | Books from Edinburgh library. SYBIL cross-reference deepens. | Aimee books flights | Dax makes contact with Seychelles land office | — | — |
-| Ch. 4 | Week 2 | Edinburgh: McAteer's annotated notes decode the pattern | Aimee packs, draws in notebook | Viktor reads AURORA's same-anomaly report | — | — |
+| Ch. 3 | Week 1 | Books from Perth library. SYBIL cross-reference deepens. | Aimee books flights | Dax makes contact with Seychelles land office | — | — |
+| Ch. 4 | Week 2 | Perth: McAteer's annotated notes decode the pattern | Aimee packs, draws in notebook | Viktor reads ZARYA's same-anomaly report | — | — |
 | Ch. 5 | Week 2 | Travels to Seychelles | Travels with Adam | Viktor arrives in Seychelles, establishes villa | — | — |
 | Ch. 6 | Day 1 Seychelles | Victoria: National Archives. Mahe landing. | Aimee's sensory return — she is visibly more herself | Viktor calls Dax: timeline | — | Edmond hosts dinner |
 | Ch. 7 | Day 2–3 | National Archives: land records. Meets Dax (as "Daniel Voss") | Mahé: market, Creole speakers, first conversation in Creole | Viktor: first meeting Adam — arranged through "coincidence" at a reception | — | Edmond introduces Adam around |
 | Ch. 8 | Day 4 | Antigone Bookshop: Juliette. She gives him the books. | Aimee and Juliette — immediate recognition. Aimee handles annotated copy, opens to right page. | Viktor watches — he knows about Juliette | **Juliette: first meeting — gives Adam the books. Revelation 1.** | — |
 | Ch. 9 | Day 5 | First Viktor meeting (formal). Assesses Viktor as treasure-hunter. Edmond dinner. | Present at Viktor dinner. Distrusts him immediately. Says so once, drops it. | Viktor: expresses collegial interest; is already fully informed | — | Edmond: the first story. Adam misses the instruction. |
 | Ch. 10 | Day 6–7 | Beau Vallon: fieldwork. McAteer's footnote about tidal channel confirmed in situ. | **Beau Vallon beach: hears fragment of the rhyme. Writes it in notebook. Doesn't know why.** | Dax obtains partial land records | — | — |
-| Ch. 11 | Day 8 | Cerf Island: Juliette gives him the floor plan. Two chambers. Annotation: "the second half." | Aimee present. Juliette: the floor plan. | Viktor: AURORA flags tidal channel mathematically | **Juliette: Revelation 2 — floor plan. "The second half."** | — |
+| Ch. 11 | Day 8 | Cerf Island: Juliette gives him the floor plan. Two chambers. Annotation: "the second half." | Aimee present. Juliette: the floor plan. | Viktor: ZARYA flags tidal channel mathematically | **Juliette: Revelation 2 — floor plan. "The second half."** | — |
 | Ch. 12 | Day 9–10 | Bel Ombre reconnaissance. Tidal channel approach visible at low tide — entrance blocked. | At Bel Ombre. Her drawing of the approach. | — | — | Edmond: provides the vehicle and the contacts |
 
 ---
@@ -69,7 +69,7 @@
 | Ch. 15 | Viktor offers partnership. Adam declines. The offer was sincere. |
 | Ch. 16 | Edmond: the wall story. Adam is beginning to hear the instruction. Land records gap confirmed. |
 | Ch. 17 | **Père Henri (Praslin).** The oral history: "the room behind the room." Père Henri confesses: Dax visited him. He gave Dax what he knows. Adam receives the 1943 letter. Aimee goes still after. |
-| Ch. 18–19 | SYBIL: deepening cross-reference. Viktor's AURORA results land on Adam's desk through Dax (Viktor's move — he shares partial data to draw Adam toward the wrong conclusion about the entrance). |
+| Ch. 18–19 | SYBIL: deepening cross-reference. Viktor's ZARYA results land on Adam's desk through Dax (Viktor's move — he shares partial data to draw Adam toward the wrong conclusion about the entrance). |
 | Ch. 20 | Bel Ombre second visit: ground survey. The specific tidal and seasonal conditions charted. |
 | Ch. 21 | Brigitte calls. She tells Adam what he needs to hear about Viktor. The call reframes his understanding. |
 | Ch. 22 | **Midpoint.** Adam discovers Viktor knew about the books anomaly too — his AI flagged the same pattern. Viktor reached the wrong conclusion. Adam didn't. Juliette: Revelation 3 — the disappeared academic. Viktor's network. The timeline changes. |
@@ -95,7 +95,7 @@
 | Ch. 35 | **Viktor at the entrance.** Juliette and Edmond are there. The legal situation. Viktor: "Tell me when it opens to the public. I'll buy a ticket." He leaves. Dax leaves. |
 | Ch. 36–37 | The aftermath — heritage ministry, international scholars, the Institute named. |
 | Ch. 38 | McAteer's grave. Adam visits alone. This is the last scene of Adam's arc. |
-| Ch. 39 | Aimee tells Adam she is not going back to Edinburgh yet. |
+| Ch. 39 | Aimee tells Adam she is not going back to Perth yet. |
 | Ch. 40 | Brigitte arrives. The water around Moyenne. Adam watching from the island. |
 
 ---
@@ -109,7 +109,7 @@ The entrance at Bel Ombre is accessible only at:
 
 This creates a specific operational window occurring approximately every 14 days during the monsoon season, lasting approximately 3 hours. The missed window in Chapter 26 and the successful window in Chapters 29–30 are both credible under real Seychellois tidal patterns.
 
-Viktor's team knows the tidal condition (AURORA has it) but does not know the seasonal constraint and has set their permit timeline for the wrong window.
+Viktor's team knows the tidal condition (ZARYA has it) but does not know the seasonal constraint and has set their permit timeline for the wrong window.
 
 ---
 

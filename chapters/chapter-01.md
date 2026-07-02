@@ -2,7 +2,7 @@
 
 **Act:** Act 1
 **POV:** Adam Gladstone
-**Location:** University of Edinburgh — Adam's office
+**Location:** University of Perth — Adam's office
 **Timeline Day:** Day 1
 
 ---
@@ -22,7 +22,7 @@ Adam at his desk, late afternoon. He is working with SYBIL on an unrelated resea
 ## Key Scenes
 
 ### Scene 1 — The Office
-**Location:** Edinburgh University, mathematics department
+**Location:** Perth University, mathematics department
 **Characters present:** Adam (alone)
 **What happens:** Adam finally opens the parcel. Inside: McAteer's annotated copy of *Rivals in Eden*. He reads the annotations with analytical attention. Then the handwritten note, inside the back cover.
 **What it means:** The inciting note — "The entrance is in the books. All of them." — is delivered. The mystery begins.

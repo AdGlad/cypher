@@ -31,9 +31,9 @@
 **What McAteer records:** A French astronomer who visited the Seychelles, studied the Coco de Mer in depth, and theorised about how its seeds dispersed across the Indian Ocean. Described as a "French traveller and scientist." He argued about the routes to the Indies, made astronomical observations, and wrote about the natural history of the islands.
 
 **Novel use:**
-- Direct historical model for Van Houten, the archive's fictional scientist
-- Rochon was real and documented; Van Houten is invented in the same mould
-- His Coco de Mer observations can be referenced — Van Houten's archive contains what Rochon only theorised
+- Historical parallel for Abel Deschamps, the archive's creator
+- Rochon was real and documented; Deschamps is invented in the same Enlightenment scientific mould but pre-dates Rochon by several decades
+- His Coco de Mer observations can be referenced — Deschamps's archive contains what Rochon only theorised
 
 ---
 
